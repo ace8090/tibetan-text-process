@@ -1,0 +1,5937 @@
+# sil
+<SPOKEN_NOISE> sil
+SIL sil
+<UNK> sil
+ཀ k a
+ཀག k a k
+ཀང k a ng
+ཀད k ecb
+ཀན k ec
+ཀབ k a p
+ཀམ k a m
+ཀར k aw
+ཀས k ecb
+ཀི k i
+ཀིང k i ng
+ཀིན k ii
+ཀིམ k i m
+ཀིམས k i m
+ཀིར k iw
+ཀུག k u k
+ཀུང k u ng
+ཀུན k yy
+ཀུམ k u m
+ཀུར k uw
+ཀུས k yb
+ཀེ k e
+ཀེག k a k
+ཀེང k e ng
+ཀེན k ee
+ཀེམ k e m
+ཀེར k ew
+ཀེལ k ew
+ཀོ k o
+ཀོག k o k
+ཀོགས k o k
+ཀོང k o ng
+ཀོད k edb
+ཀོན k ed
+ཀོབ k o p
+ཀོམ k o m
+ཀོར k ow
+ཀོལ k edw
+ཀོས k edb
+ཀྭ k a
+ཀྭའ k a
+ཀྭན k ec
+ཀྭས k ecb
+ཀྱ c a
+ཀྱག c a k
+ཀྱང c a ng
+ཀྱད c ecb
+ཀྱམ c a m
+ཀྱམས c a m
+ཀྱར c aw
+ཀྱལ c ecw
+ཀྱས c ecb
+ཀྱི c i
+ཀྱིག c i k
+ཀྱིང c i ng
+ཀྱིན c ii
+ཀྱིར c iw
+ཀྱིལ c iw
+ཀྱིས c ib
+ཀྱུ c u
+ཀྱུག c u k
+ཀྱུང c u ng
+ཀྱུན c yy
+ཀྱུར c uw
+ཀྱུས c yb
+ཀྱེ c e
+ཀྱེད c eb
+ཀྱེལ c ew
+ཀྱོ c o
+ཀྱོག c o k
+ཀྱོང c o ng
+ཀྱོན c ed
+ཀྱོམ c o m
+ཀྱོར c ow
+ཀྲག ds a k
+ཀྲང ds a ng
+ཀྲད ds ecb
+ཀྲན ds ec
+ཀྲབ ds a p
+ཀྲམ ds a m
+ཀྲི ds i
+ཀྲིག ds i k
+ཀྲིང ds i ng
+ཀྲིན ds ii
+ཀྲུ ds u
+ཀྲུག ds u k
+ཀྲུགས ds u k
+ཀྲུང ds u ng
+ཀྲུངས ds u ng
+ཀྲུབ ds u p
+ཀྲུམ ds u m
+ཀྲུམས ds u m
+ཀྲེ ds e
+ཀྲེང ds e ng
+ཀྲེམས ds e m
+ཀྲེས ds eb
+ཀྲོ ds o
+ཀྲོག ds o k
+ཀྲོང ds o ng
+ཀྲོངས ds o ng
+ཀྲོད ds edb
+ཀྲོན ds ed
+ཀྲོབ ds o p
+ཀྲོམ ds o m
+ཀྲོམས ds o m
+ཀྲོར ds ow
+ཀྲོལ ds edw
+ཀྲོས ds edb
+ཀླག l a k
+ཀླགས l a k
+ཀླད l ecb
+ཀླན l ec
+ཀླབ l a p
+ཀླམ l a m
+ཀླལ l ecw
+ཀླས l ecb
+ཀླིང l i ng
+ཀླུ l u
+ཀླུང l u ng
+ཀླུངས l u ng
+ཀླུབ l u p
+ཀླུབས l u p
+ཀླུས l yb
+ཀློ l o
+ཀློག l o k
+ཀློགས l o k
+ཀློང l o ng
+ཀློད l edb
+ཀློན l ed
+ཀློལ l edw
+དཀའ k a
+དཀག k a k
+དཀན k ec
+དཀར k aw
+དཀུ k u
+དཀོ k o
+དཀོག k o k
+དཀོན k ed
+དཀོར k ow
+དཀོས k edb
+དཀྱར c aw
+དཀྱིགས c i k
+དཀྱིར c iw
+དཀྱིལ c iw
+དཀྱུ c u
+དཀྱུད c yb
+དཀྱུས c yb
+དཀྱེར c ew
+དཀྱེལ c ew
+དཀྱོག c o k
+དཀྱོགས c o k
+དཀྱོར c ow
+དཀྲབ ds a p
+དཀྲི ds i
+དཀྲིག ds i k
+དཀྲིགས ds i k
+དཀྲིལ ds iw
+དཀྲིས ds ib
+དཀྲུག ds u k
+དཀྲུགས ds u k
+དཀྲུང ds u ng
+དཀྲུམ ds u m
+དཀྲུམས ds u m
+དཀྲེ ds e
+དཀྲོག ds o k
+དཀྲོགས ds o k
+དཀྲོང ds o ng
+དཀྲོངས ds o ng
+དཀྲོལ ds edw
+བཀའ k a
+བཀག k a k
+བཀང k a ng
+བཀད k ecb
+བཀན k ec
+བཀབ k a p
+བཀར k aw
+བཀལ k ecw
+བཀས k ecb
+བཀུ k u
+བཀུག k u k
+བཀུམ k u m
+བཀུམས k u m
+བཀུར k uw
+བཀུས k yb
+བཀོག k o k
+བཀོང k o ng
+བཀོད k edb
+བཀོན k ed
+བཀོར k ow
+བཀོལ k edw
+བཀྱག c a k
+བཀྱགས c a k
+བཀྱལ c ecw
+བཀྱི c i
+བཀྱིག c i k
+བཀྱིགས c i k
+བཀྱིལ c iw
+བཀྱིས c ib
+བཀྱེ c e
+བཀྱེད c eb
+བཀྱེས c eb
+བཀྱོན c ed
+བཀྲ ds a
+བཀྲག ds a k
+བཀྲགས ds a k
+བཀྲབ ds a p
+བཀྲབས ds a p
+བཀྲམ ds a m
+བཀྲལ ds ecw
+བཀྲས ds ecb
+བཀྲི ds i
+བཀྲིན ds ii
+བཀྲིར ds iw
+བཀྲིས ds ib
+བཀྲུ ds u
+བཀྲུམས ds u m
+བཀྲུས ds yb
+བཀྲེན ds ee
+བཀྲེས ds eb
+བཀྲོ ds o
+བཀྲོང ds o ng
+བཀྲོངས ds o ng
+བཀྲོབས ds o p
+བཀྲོལ ds edw
+བཀྲོས ds edb
+བཀླག l a k
+བཀླགས l a k
+བཀླུབ l u p
+བཀླུབས l u p
+རྐ k a
+རྐང k a ng
+རྐན k ec
+རྐམ k a m
+རྐུ k u
+རྐུན k yy
+རྐུབ k u p
+རྐུས k yb
+རྐེ k e
+རྐེད k eb
+རྐོ k o
+རྐོང k o ng
+རྐོན k ed
+རྐོམ k o m
+རྐོམས k o m
+རྐོས k edb
+རྐྱ c a
+རྐྱག c a k
+རྐྱང c a ng
+རྐྱན c ec
+རྐྱལ c ecw
+རྐྱེན c ee
+རྐྱོང c o ng
+རྐྱོངས c o ng
+རྐྱོལ c edw
+ལྐག k a k
+ལྐལ k ecw
+ལྐུ k u
+ལྐུག k u k
+ལྐུགས k u k
+ལྐོ k o
+ལྐོག k o k
+ལྐོགས k o k
+སྐག k a k
+སྐང k a ng
+སྐད k ecb
+སྐན k ec
+སྐབས k a p
+སྐམ k a m
+སྐམས k a m
+སྐར k aw
+སྐལ k ecw
+སྐས k ecb
+སྐུ k u
+སྐུག k u k
+སྐུགས k u k
+སྐུང k u ng
+སྐུངས k u ng
+སྐུད k yb
+སྐུན k yy
+སྐུམ k u m
+སྐུམས k u m
+སྐུར k uw
+སྐུལ k y
+སྐུས k yb
+སྐེ k e
+སྐེག k a k
+སྐེགས k a k
+སྐེད k eb
+སྐེམ k e m
+སྐེམས k e m
+སྐེར k ew
+སྐེས k eb
+སྐོ k o
+སྐོགས k o k
+སྐོང k o ng
+སྐོངས k o ng
+སྐོན k ed
+སྐོབ k o p
+སྐོབས k o p
+སྐོམ k o m
+སྐོམས k o m
+སྐོར k ow
+སྐོལ k edw
+སྐོས k edb
+སྐྱ c a
+སྐྱག c a k
+སྐྱང c a ng
+སྐྱངས c a ng
+སྐྱབས c a p
+སྐྱར c aw
+སྐྱལ c ecw
+སྐྱས c ecb
+སྐྱི c i
+སྐྱིག c i k
+སྐྱིགས c i k
+སྐྱིང c i ng
+སྐྱིད c ib
+སྐྱིན c ii
+སྐྱིབས c i p
+སྐྱིལ c iw
+སྐྱིས c ib
+སྐྱུ c u
+སྐྱུག c u k
+སྐྱུགས c u k
+སྐྱུང c u ng
+སྐྱུངས c u ng
+སྐྱུད c yb
+སྐྱུར c uw
+སྐྱུས c yb
+སྐྱེ c e
+སྐྱེག c a k
+སྐྱེགས c a k
+སྐྱེངས c e ng
+སྐྱེད c eb
+སྐྱེན c ee
+སྐྱེམས c e m
+སྐྱེར c ew
+སྐྱེལ c ew
+སྐྱེས c eb
+སྐྱོ c o
+སྐྱོག c o k
+སྐྱོགས c o k
+སྐྱོང c o ng
+སྐྱོངས c o ng
+སྐྱོད c edb
+སྐྱོན c ed
+སྐྱོབ c o p
+སྐྱོབས c o p
+སྐྱོམ c o m
+སྐྱོམས c o m
+སྐྱོར c ow
+སྐྱོལ c edw
+སྐྱོས c edb
+སྐྲ ds a
+སྐྲག ds a k
+སྐྲགས ds a k
+སྐྲང ds a ng
+སྐྲངས ds a ng
+སྐྲན ds ec
+སྐྲབ ds a p
+སྐྲི ds i
+སྐྲུ ds u
+སྐྲུག ds u k
+སྐྲུད ds yb
+སྐྲུན ds yy
+སྐྲུས ds yb
+སྐྲོག ds o k
+སྐྲོགས ds o k
+སྐྲོད ds edb
+སྐྲོན ds ed
+བརྐམ k a m
+བརྐམས k a m
+བརྐུ k u
+བརྐུན k yy
+བརྐུས k yb
+བརྐོ k o
+བརྐོན k ed
+བརྐོལ k edw
+བརྐོས k edb
+བརྐྱང c a ng
+བརྐྱངས c a ng
+བརྐྱལ c ecw
+བསྐང k a ng
+བསྐངས k a ng
+བསྐམ k a m
+བསྐམས k a m
+བསྐལ k ecw
+བསྐུ k u
+བསྐུག k u k
+བསྐུགས k u k
+བསྐུང k u ng
+བསྐུངས k u ng
+བསྐུམ k u m
+བསྐུམས k u m
+བསྐུར k uw
+བསྐུལ k y
+བསྐུས k yb
+བསྐོ k o
+བསྐོགས k o k
+བསྐོང k o ng
+བསྐོངས k o ng
+བསྐོན k ed
+བསྐོབ k o p
+བསྐོམས k o m
+བསྐོར k ow
+བསྐོལ k edw
+བསྐོས k edb
+བསྐྱ c a
+བསྐྱང c a ng
+བསྐྱངས c a ng
+བསྐྱད c ecb
+བསྐྱབ c a p
+བསྐྱབས c a p
+བསྐྱམ c a m
+བསྐྱམས c a m
+བསྐྱར c aw
+བསྐྱལ c ecw
+བསྐྱས c ecb
+བསྐྱི c i
+བསྐྱིག c i k
+བསྐྱིགས c i k
+བསྐྱིངས c i ng
+བསྐྱིན c ii
+བསྐྱིམས c i m
+བསྐྱིལ c iw
+བསྐྱིས c ib
+བསྐྱུག c u k
+བསྐྱུགས c u k
+བསྐྱུང c u ng
+བསྐྱུངས c u ng
+བསྐྱུད c yb
+བསྐྱུར c uw
+བསྐྱེང c e ng
+བསྐྱེངས c e ng
+བསྐྱེད c eb
+བསྐྱོག c o k
+བསྐྱོགས c o k
+བསྐྱོད c edb
+བསྐྱོན c ed
+བསྐྱོམ c o m
+བསྐྱོམས c o m
+བསྐྱོར c ow
+བསྐྱོས c edb
+བསྐྲད ds ecb
+བསྐྲི ds i
+བསྐྲིན ds ii
+བསྐྲིས ds ib
+བསྐྲུ ds u
+བསྐྲུན ds yy
+བསྐྲུས ds yb
+བསྐྲོག ds o k
+བསྐྲོགས ds o k
+བསྐྲོང ds o ng
+ཁ kh a
+ཁག kh a k
+ཁང kh a ng
+ཁངས kh a ng
+ཁད kh ecb
+ཁན kh ec
+ཁབ kh a p
+ཁབས kh a p
+ཁམ kh a m
+ཁམས kh a m
+ཁར kh aw
+ཁལ kh ecw
+ཁས kh ecb
+ཁི kh i
+ཁིངས kh i ng
+ཁིས kh ib
+ཁུ kh u
+ཁུག kh u k
+ཁུགས kh u k
+ཁུང kh u ng
+ཁུངས kh u ng
+ཁུད kh yb
+ཁུན kh yy
+ཁུམ kh u m
+ཁུམས kh u m
+ཁུར kh uw
+ཁུལ kh y
+ཁུས kh yb
+ཁེ kh e
+ཁེག kh a k
+ཁེགས kh a k
+ཁེང kh e ng
+ཁེངས kh e ng
+ཁེད kh eb
+ཁེན kh ee
+ཁེབ kh e p
+ཁེབས kh e p
+ཁེམ kh e m
+ཁེམས kh e m
+ཁེལ kh ew
+ཁེས kh eb
+ཁོ kh o
+ཁོག kh o k
+ཁོགས kh o k
+ཁོང kh o ng
+ཁོངས kh o ng
+ཁོད kh edb
+ཁོན kh ed
+ཁོབ kh o p
+ཁོབས kh o p
+ཁོམ kh o m
+ཁོར kh ow
+ཁོལ kh edw
+ཁོས kh edb
+ཁྭ kh a
+ཁྭང kh a ng
+ཁྱག ch a k
+ཁྱགས ch a k
+ཁྱད ch ecb
+ཁྱབ ch a p
+ཁྱམ ch a m
+ཁྱམས ch a m
+ཁྱར ch aw
+ཁྱི ch i
+ཁྱིགས ch i k
+ཁྱིང ch i ng
+ཁྱིད ch ib
+ཁྱིམ ch i m
+ཁྱིར ch iw
+ཁྱིལ ch iw
+ཁྱིས ch ib
+ཁྱུ ch u
+ཁྱུག ch u k
+ཁྱུགས ch u k
+ཁྱུང ch u ng
+ཁྱུད ch yb
+ཁྱུར ch uw
+ཁྱེ ch e
+ཁྱེད ch eb
+ཁྱེམ ch e m
+ཁྱེར ch ew
+ཁྱེལ ch ew
+ཁྱེས ch eb
+ཁྱོ ch o
+ཁྱོག ch o k
+ཁྱོགས ch o k
+ཁྱོང ch o ng
+ཁྱོངས ch o ng
+ཁྱོད ch edb
+ཁྱོན ch ed
+ཁྱོབ ch o p
+ཁྱོམ ch o m
+ཁྱོར ch ow
+ཁྱོལ ch edw
+ཁྱོས ch edb
+ཁྲ dsh a
+ཁྲག dsh a k
+ཁྲང dsh a ng
+ཁྲད dsh ecb
+ཁྲན dsh ec
+ཁྲབ dsh a p
+ཁྲབས dsh a p
+ཁྲམ dsh a m
+ཁྲལ dsh ecw
+ཁྲས dsh ecb
+ཁྲི dsh i
+ཁྲིག dsh i k
+ཁྲིགས dsh i k
+ཁྲིད dsh ib
+ཁྲིམ dsh i m
+ཁྲིམས dsh i m
+ཁྲིལ dsh iw
+ཁྲིས dsh ib
+ཁྲུ dsh u
+ཁྲུག dsh u k
+ཁྲུང dsh u ng
+ཁྲུད dsh yb
+ཁྲུན dsh yy
+ཁྲུམ dsh u m
+ཁྲུམས dsh u m
+ཁྲུལ dsh y
+ཁྲུས dsh yb
+ཁྲེ dsh e
+ཁྲེགས dsh a k
+ཁྲེང dsh e ng
+ཁྲེད dsh eb
+ཁྲེན dsh ee
+ཁྲེབ dsh e p
+ཁྲེམ dsh e m
+ཁྲེམས dsh e m
+ཁྲེལ dsh ew
+ཁྲེས dsh eb
+ཁྲོ dsh o
+ཁྲོག dsh o k
+ཁྲོང dsh o ng
+ཁྲོངས dsh o ng
+ཁྲོད dsh edb
+ཁྲོན dsh ed
+ཁྲོབ dsh o p
+ཁྲོབས dsh o p
+ཁྲོམ dsh o m
+ཁྲོམས dsh o m
+ཁྲོལ dsh edw
+ཁྲོས dsh edb
+མཁན kh ec
+མཁར kh aw
+མཁལ kh ecw
+མཁས kh ecb
+མཁུ kh u
+མཁུན kh yy
+མཁུར kh uw
+མཁུས kh yb
+མཁོ kh o
+མཁོད kh edb
+མཁོན kh ed
+མཁོར kh ow
+མཁོས kh edb
+མཁའ kh a
+མཁྱིད ch ib
+མཁྱུད ch yb
+མཁྱེན ch ee
+མཁྲགས dsh a k
+མཁྲང dsh a ng
+མཁྲིག dsh i k
+མཁྲིགས dsh i k
+མཁྲིས dsh ib
+མཁྲེགས dsh a k
+མཁྲེས dsh eb
+འཁང kh a ng
+འཁངས kh a ng
+འཁན kh ec
+འཁམ kh a m
+འཁམས kh a m
+འཁར kh aw
+འཁལ kh ecw
+འཁུ kh u
+འཁུགས kh u k
+འཁུད kh yb
+འཁུན kh yy
+འཁུམ kh u m
+འཁུམས kh u m
+འཁུར kh uw
+འཁུལ kh y
+འཁུས kh yb
+འཁེགས kh a k
+འཁེང kh e ng
+འཁེངས kh e ng
+འཁེན kh ee
+འཁེབ kh e p
+འཁེབས kh e p
+འཁེར kh ew
+འཁེལ kh ew
+འཁོག kh o k
+འཁོགས kh o k
+འཁོང kh o ng
+འཁོངས kh o ng
+འཁོད kh edb
+འཁོན kh ed
+འཁོབ kh o p
+འཁོབས kh o p
+འཁོམ kh o m
+འཁོམས kh o m
+འཁོར kh ow
+འཁོལ kh edw
+འཁོས kh edb
+འཁྱག ch a k
+འཁྱགས ch a k
+འཁྱབ ch a p
+འཁྱམ ch a m
+འཁྱམས ch a m
+འཁྱར ch aw
+འཁྱལ ch ecw
+འཁྱིག ch i k
+འཁྱིགས ch i k
+འཁྱིད ch ib
+འཁྱིམ ch i m
+འཁྱིམས ch i m
+འཁྱིར ch iw
+འཁྱིལ ch iw
+འཁྱུ ch u
+འཁྱུག ch u k
+འཁྱུགས ch u k
+འཁྱུད ch yb
+འཁྱུན ch yy
+འཁྱུར ch uw
+འཁྱུས ch yb
+འཁྱེར ch ew
+འཁྱོག ch o k
+འཁྱོགས ch o k
+འཁྱོང ch o ng
+འཁྱོངས ch o ng
+འཁྱོམ ch o m
+འཁྱོམས ch o m
+འཁྱོར ch ow
+འཁྱོལ ch edw
+འཁྱོས ch edb
+འཁྲ dsh a
+འཁྲང dsh a ng
+འཁྲད dsh ecb
+འཁྲན dsh ec
+འཁྲབ dsh a p
+འཁྲབས dsh a p
+འཁྲལ dsh ecw
+འཁྲས dsh ecb
+འཁྲི dsh i
+འཁྲིག dsh i k
+འཁྲིགས dsh i k
+འཁྲིད dsh ib
+འཁྲིམས dsh i m
+འཁྲིལ dsh iw
+འཁྲིས dsh ib
+འཁྲུ dsh u
+འཁྲུག dsh u k
+འཁྲུགས dsh u k
+འཁྲུང dsh u ng
+འཁྲུངས dsh u ng
+འཁྲུད dsh yb
+འཁྲུན dsh yy
+འཁྲུར dsh uw
+འཁྲུལ dsh y
+འཁྲུས dsh yb
+འཁྲེང dsh e ng
+འཁྲེན dsh ee
+འཁྲེབ dsh e p
+འཁྲེབས dsh e p
+འཁྲོ dsh o
+འཁྲོག dsh o k
+འཁྲོགས dsh o k
+འཁྲོབས dsh o p
+འཁྲོལ dsh edw
+འཁྲོས dsh edb
+ག kh a
+གག kh a k
+གགས kh a k
+གང kh a ng
+གངས kh a ng
+གད kh ecb
+གན kh ec
+གབ kh a p
+གམ kh a m
+གར kh aw
+གལ kh ecw
+གས kh ecb
+གི kh i
+གིང kh i ng
+གིན kh ii
+གིམ kh i m
+གིར kh iw
+གིས kh ib
+གུ kh u
+གུག kh u k
+གུང kh u ng
+གུད kh yb
+གུན kh yy
+གུམ kh u m
+གུར kh uw
+གུལ kh y
+གུས kh yb
+གེ kh e
+གེག kh a k
+གེགས kh a k
+གེན kh ee
+གེར kh ew
+གེལ kh ew
+གེས kh eb
+གོ kh o
+གོག kh o k
+གོང kh o ng
+གོད kh edb
+གོན kh ed
+གོབ kh o p
+གོམ kh o m
+གོམས kh o m
+གོར kh ow
+གོལ kh edw
+གོས kh edb
+གྭ kh a
+གྭང kh a ng
+གྱ ch a
+གྱག ch a k
+གྱང ch a ng
+གྱངས ch a ng
+གྱད ch ecb
+གྱབས ch a p
+གྱམ ch a m
+གྱར ch aw
+གྱལ ch ecw
+གྱི ch i
+གྱིག ch i k
+གྱིང ch i ng
+གྱིན ch ii
+གྱིམ ch i m
+གྱིལ ch iw
+གྱིས ch ib
+གྱུ ch u
+གྱུག ch u k
+གྱུང ch u ng
+གྱུར ch uw
+གྱེ ch e
+གྱེང ch e ng
+གྱེད ch eb
+གྱེན ch ee
+གྱེར ch ew
+གྱེས ch eb
+གྱོ ch o
+གྱོག ch o k
+གྱོགས ch o k
+གྱོང ch o ng
+གྱོད ch edb
+གྱོན ch ed
+གྱོལ ch edw
+གྱོས ch edb
+གྲ dsh a
+གྲག dsh a k
+གྲགས dsh a k
+གྲང dsh a ng
+གྲངས dsh a ng
+གྲབ dsh a p
+གྲབས dsh a p
+གྲམ dsh a m
+གྲམས dsh a m
+གྲལ dsh ecw
+གྲས dsh ecb
+གྲི dsh i
+གྲིན dsh ii
+གྲིབ dsh i p
+གྲིམ dsh i m
+གྲིམས dsh i m
+གྲིར dsh iw
+གྲིལ dsh iw
+གྲིས dsh ib
+གྲུ dsh u
+གྲུག dsh u k
+གྲུགས dsh u k
+གྲུང dsh u ng
+གྲུངས dsh u ng
+གྲུན dsh yy
+གྲུབ dsh u p
+གྲུབས dsh u p
+གྲུམ dsh u m
+གྲུམས dsh u m
+གྲུར dsh uw
+གྲུལ dsh y
+གྲུས dsh yb
+གྲེ dsh e
+གྲེམས dsh e m
+གྲེས dsh eb
+གྲོ dsh o
+གྲོག dsh o k
+གྲོགས dsh o k
+གྲོང dsh o ng
+གྲོངས dsh o ng
+གྲོད dsh edb
+གྲོན dsh ed
+གྲོལ dsh edw
+གྲོས dsh edb
+གྲྭ dsh a
+གྲྭར dsh aw
+གླ l a
+གླག l a k
+གླགས l a k
+གླང l a ng
+གླན l ec
+གླམ l a m
+གླལ l ecw
+གླས l ecb
+གླིང l i ng
+གླིངས l i ng
+གླུ l u
+གླུད l yb
+གླུམ l u m
+གླུར l uw
+གླེ l e
+གླེག l a k
+གླེགས l a k
+གླེང l e ng
+གླེངས l e ng
+གླེན l ee
+གླེབ l e p
+གླེབས l e p
+གླེམ l e m
+གློ l o
+གློག l o k
+གློང l o ng
+གློངས l o ng
+གློད l edb
+གློན l ed
+གློར l ow
+གློས l edb
+དགའ k a
+དགག k a k
+དགང k a ng
+དགད k ecb
+དགན k ec
+དགབ k a p
+དགར k aw
+དགལ k ecw
+དགས k ecb
+དགུ k u
+དགུག k u k
+དགུགས k u k
+དགུང k u ng
+དགུན k yy
+དགུམ k u m
+དགུར k uw
+དགུས k yb
+དགེ k e
+དགེར k ew
+དགེལ k ew
+དགེས k eb
+དགོ k o
+དགོག k o k
+དགོང k o ng
+དགོངས k o ng
+དགོད k edb
+དགོན k ed
+དགོལ k edw
+དགོས k edb
+དགྱེ c e
+དགྱེད c eb
+དགྱེར c ew
+དགྱེལ c ew
+དགྱེས c eb
+དགྲ ds a
+དགྲད ds ecb
+དགྲམ ds a m
+དགྲར ds aw
+དགྲོང ds o ng
+དགྲོངས ds o ng
+དགྲོལ ds edw
+བགག k a k
+བགགས k a k
+བགད k ecb
+བགམ k a m
+བགམས k a m
+བགེགས k a k
+བགེས k eb
+བགོ k o
+བགོག k o k
+བགོགས k o k
+བགོད k edb
+བགོམ k o m
+བགོམས k o m
+བགོར k ow
+བགོས k edb
+བགྱང c a ng
+བགྱངས c a ng
+བགྱི c i
+བགྱིད c ib
+བགྱིས c ib
+བགྱུད c yb
+བགྱེད c eb
+བགྱོངས c o ng
+བགྲང ds a ng
+བགྲངས ds a ng
+བགྲད ds ecb
+བགྲིལ ds iw
+བགྲུ ds u
+བགྲུང ds u ng
+བགྲུངས ds u ng
+བགྲུད ds yb
+བགྲུས ds yb
+བགྲེ ds e
+བགྲེས ds eb
+བགྲོ ds o
+བགྲོངས ds o ng
+བགྲོད ds edb
+བགྲོས ds edb
+མགར k aw
+མགལ k ecw
+མགུ k u
+མགུར k uw
+མགུལ k y
+མགོ k o
+མགོན k ed
+མགོར k ow
+མགོས k edb
+མགྱོགས c o k
+མགྲིན ds ii
+མགྲོན ds ed
+འགའ k a
+འགག k a k
+འགགས k a k
+འགང k a ng
+འགངས k a ng
+འགད k ecb
+འགན k ec
+འགབ k a p
+འགམ k a m
+འགམས k a m
+འགར k aw
+འགལ k ecw
+འགས k ecb
+འགི k i
+འགིང k i ng
+འགུ k u
+འགུག k u k
+འགུགས k u k
+འགུད k yb
+འགུམ k u m
+འགུམས k u m
+འགུར k uw
+འགུལ k y
+འགེ k e
+འགེགས k a k
+འགེང k e ng
+འགེངས k e ng
+འགེད k eb
+འགེབས k e p
+འགེམ k e m
+འགེམས k e m
+འགེར k ew
+འགེལ k ew
+འགེས k eb
+འགོ k o
+འགོག k o k
+འགོགས k o k
+འགོང k o ng
+འགོངས k o ng
+འགོད k edb
+འགོན k ed
+འགོམ k o m
+འགོམས k o m
+འགོར k ow
+འགོལ k edw
+འགོས k edb
+འགྱག c a k
+འགྱང c a ng
+འགྱངས c a ng
+འགྱམ c a m
+འགྱར c aw
+འགྱིག c i k
+འགྱིང c i ng
+འགྱིངས c i ng
+འགྱུ c u
+འགྱུར c uw
+འགྱུས c yb
+འགྱེ c e
+འགྱེག c a k
+འགྱེད c eb
+འགྱེར c ew
+འགྱེལ c ew
+འགྱེས c eb
+འགྱོག c o k
+འགྱོགས c o k
+འགྱོང c o ng
+འགྱོངས c o ng
+འགྱོད c edb
+འགྱོམ c o m
+འགྲགས ds a k
+འགྲང ds a ng
+འགྲངས ds a ng
+འགྲད ds ecb
+འགྲན ds ec
+འགྲམ ds a m
+འགྲམས ds a m
+འགྲས ds ecb
+འགྲིག ds i k
+འགྲིགས ds i k
+འགྲིན ds ii
+འགྲིབ ds i p
+འགྲིབས ds i p
+འགྲིམ ds i m
+འགྲིམས ds i m
+འགྲིལ ds iw
+འགྲིས ds ib
+འགྲུ ds u
+འགྲུད ds yb
+འགྲུབ ds u p
+འགྲུལ ds y
+འགྲུས ds yb
+འགྲེ ds e
+འགྲེང ds e ng
+འགྲེངས ds e ng
+འགྲེད ds eb
+འགྲེམ ds e m
+འགྲེམས ds e m
+འགྲེལ ds ew
+འགྲེས ds eb
+འགྲོ ds o
+འགྲོའ ds o
+འགྲོག ds o k
+འགྲོགས ds o k
+འགྲོང ds o ng
+འགྲོངས ds o ng
+འགྲོན ds ed
+འགྲོར ds ow
+འགྲོལ ds edw
+འགྲོས ds edb
+རྒ k a
+རྒག k a k
+རྒང k a ng
+རྒད k ecb
+རྒན k ec
+རྒལ k ecw
+རྒས k ecb
+རྒུ k u
+རྒུད k yb
+རྒུན k yy
+རྒུམ k u m
+རྒུར k uw
+རྒོ k o
+རྒོངས k o ng
+རྒོད k edb
+རྒོན k ed
+རྒོབ k o p
+རྒོལ k edw
+རྒྱ c a
+རྒྱག c a k
+རྒྱགས c a k
+རྒྱང c a ng
+རྒྱངས c a ng
+རྒྱད c ecb
+རྒྱན c ec
+རྒྱབ c a p
+རྒྱམ c a m
+རྒྱལ c ecw
+རྒྱས c ecb
+རྒྱུ c u
+རྒྱུག c u k
+རྒྱུགས c u k
+རྒྱུང c u ng
+རྒྱུངས c u ng
+རྒྱུད c yb
+རྒྱུན c yy
+རྒྱུར c uw
+རྒྱུས c yb
+རྒྱེ c e
+རྒྱོ c o
+རྒྱོགས c o k
+རྒྱོང c o ng
+རྒྱོངས c o ng
+རྒྱོད c edb
+རྒྱོབ c o p
+རྒྱོབས c o p
+རྒྱོལ c edw
+རྒྱོས c edb
+ལྒ k a
+ལྒང k a ng
+ལྒུ k u
+ལྒོ k o
+སྒ k a
+སྒག k a k
+སྒང k a ng
+སྒབ k a p
+སྒམ k a m
+སྒར k aw
+སྒལ k ecw
+སྒས k ecb
+སྒིག k i k
+སྒུ k u
+སྒུག k u k
+སྒུགས k u k
+སྒུད k yb
+སྒུབ k u p
+སྒུམ k u m
+སྒུར k uw
+སྒུལ k y
+སྒེ k e
+སྒེག k a k
+སྒེར k ew
+སྒོ k o
+སྒོག k o k
+སྒོགས k o k
+སྒོང k o ng
+སྒོངས k o ng
+སྒོད k edb
+སྒོབ k o p
+སྒོམ k o m
+སྒོམས k o m
+སྒོར k ow
+སྒོས k edb
+སྒྱང c a ng
+སྒྱིག c i k
+སྒྱིང c i ng
+སྒྱིངས c i ng
+སྒྱིད c ib
+སྒྱུ c u
+སྒྱུག c u k
+སྒྱུངས c u ng
+སྒྱུར c uw
+སྒྱུས c yb
+སྒྱེ c e
+སྒྱེད c eb
+སྒྱེལ c ew
+སྒྱོ c o
+སྒྱོག c o k
+སྒྱོགས c o k
+སྒྱོང c o ng
+སྒྱོངས c o ng
+སྒྲ ds a
+སྒྲག ds a k
+སྒྲང ds a ng
+སྒྲངས ds a ng
+སྒྲན ds ec
+སྒྲབ ds a p
+སྒྲར ds aw
+སྒྲས ds ecb
+སྒྲིག ds i k
+སྒྲིགས ds i k
+སྒྲིན ds ii
+སྒྲིབ ds i p
+སྒྲིབས ds i p
+སྒྲིམ ds i m
+སྒྲིམས ds i m
+སྒྲིལ ds iw
+སྒྲུ ds u
+སྒྲུག ds u k
+སྒྲུགས ds u k
+སྒྲུང ds u ng
+སྒྲུངས ds u ng
+སྒྲུན ds yy
+སྒྲུབ ds u p
+སྒྲུབས ds u p
+སྒྲེ ds e
+སྒྲེག ds a k
+སྒྲེགས ds a k
+སྒྲེང ds e ng
+སྒྲེངས ds e ng
+སྒྲེན ds ee
+སྒྲེས ds eb
+སྒྲོ ds o
+སྒྲོག ds o k
+སྒྲོགས ds o k
+སྒྲོང ds o ng
+སྒྲོངས ds o ng
+སྒྲོད ds edb
+སྒྲོན ds ed
+སྒྲོབ ds o p
+སྒྲོམ ds o m
+སྒྲོལ ds edw
+སྒྲོས ds edb
+བརྒགས k a k
+བརྒད k ecb
+བརྒན k ec
+བརྒལ k ecw
+བརྒྱ c a
+བརྒྱག c a k
+བརྒྱགས c a k
+བརྒྱང c a ng
+བརྒྱངས c a ng
+བརྒྱད c ecb
+བརྒྱན c ec
+བརྒྱབ c a p
+བརྒྱབས c a p
+བརྒྱར c aw
+བརྒྱལ c ecw
+བརྒྱས c ecb
+བརྒྱུ c u
+བརྒྱུག c u k
+བརྒྱུགས c u k
+བརྒྱུང c u ng
+བརྒྱུངས c u ng
+བརྒྱུད c yb
+བརྒྱུར c uw
+བརྒྱུས c yb
+བརྒྱོ c o
+བརྒྱོས c edb
+བསྒག k a k
+བསྒགས k a k
+བསྒང k a ng
+བསྒངས k a ng
+བསྒབ k a p
+བསྒབས k a p
+བསྒར k aw
+བསྒུག k u k
+བསྒུགས k u k
+བསྒུར k uw
+བསྒུལ k y
+བསྒོ k o
+བསྒོང k o ng
+བསྒོངས k o ng
+བསྒོམ k o m
+བསྒོམས k o m
+བསྒོས k edb
+བསྒྱང c a ng
+བསྒྱངས c a ng
+བསྒྱིང c i ng
+བསྒྱིངས c i ng
+བསྒྱུབ c u p
+བསྒྱུར c uw
+བསྒྱེལ c ew
+བསྒྲག ds a k
+བསྒྲགས ds a k
+བསྒྲང ds a ng
+བསྒྲངས ds a ng
+བསྒྲད ds ecb
+བསྒྲལ ds ecw
+བསྒྲི ds i
+བསྒྲིག ds i k
+བསྒྲིགས ds i k
+བསྒྲིན ds ii
+བསྒྲིབ ds i p
+བསྒྲིབས ds i p
+བསྒྲིམ ds i m
+བསྒྲིམས ds i m
+བསྒྲིལ ds iw
+བསྒྲུག ds u k
+བསྒྲུགས ds u k
+བསྒྲུང ds u ng
+བསྒྲུངས ds u ng
+བསྒྲུན ds yy
+བསྒྲུབ ds u p
+བསྒྲུབས ds u p
+བསྒྲེ ds e
+བསྒྲེང ds e ng
+བསྒྲེངས ds e ng
+བསྒྲེན ds ee
+བསྒྲེས ds eb
+བསྒྲོ ds o
+བསྒྲོག ds o k
+བསྒྲོགས ds o k
+བསྒྲོད ds edb
+བསྒྲོན ds ed
+བསྒྲོས ds edb
+ང ng a
+ངག ng a k
+ངང ng a ng
+ངད ng ecb
+ངན ng ec
+ངབ ng a p
+ངམ ng a m
+ངར ng aw
+ངལ ng ecw
+ངས ng ecb
+ངི ng i
+ངིར ng iw
+ངུ ng u
+ངུད ng yb
+ངུར ng uw
+ངུས ng yb
+ངེ ng e
+ངེད ng eb
+ངེར ng ew
+ངེས ng eb
+ངོ ng o
+ངོག ng o k
+ངོགས ng o k
+ངོན ng ed
+ངོམ ng o m
+ངོམས ng o m
+ངོར ng ow
+ངོས ng edb
+དངགས ng a k
+དངང ng a ng
+དངངས ng a ng
+དངན ng ec
+དངར ng aw
+དངལ ng ecw
+དངུད ng yb
+དངུལ ng y
+དངོ ng o
+དངོམ ng o m
+དངོམས ng o m
+དངོས ng edb
+མངའ ng a
+མངག ng a k
+མངགས ng a k
+མངན ng ec
+མངར ng aw
+མངལ ng ecw
+མངས ng ecb
+མངུན ng yy
+མངོགས ng o k
+མངོན ng ed
+རྔ ng a
+རྔད ng ecb
+རྔན ng ec
+རྔབ ng a p
+རྔབས ng a p
+རྔམ ng a m
+རྔམས ng a m
+རྔུ ng u
+རྔུབ ng u p
+རྔུབས ng u p
+རྔུམ ng u m
+རྔུར ng uw
+རྔུལ ng y
+རྔེ ng e
+རྔེགས ng a k
+རྔེད ng eb
+རྔེན ng ee
+རྔོ ng o
+རྔོག ng o k
+རྔོགས ng o k
+རྔོད ng edb
+རྔོན ng ed
+རྔོམ ng o m
+རྔོམས ng o m
+རྔོས ng edb
+ལྔ ng a
+ལྔས ng ecb
+སྔ ng a
+སྔག ng a k
+སྔགས ng a k
+སྔངས ng a ng
+སྔན ng ec
+སྔབ ng a p
+སྔབས ng a p
+སྔམ ng a m
+སྔར ng aw
+སྔས ng ecb
+སྔྀ ng u
+སྔྀན ng yy
+སྔྀར ng uw
+སྔོ ng o
+སྔོག ng o k
+སྔོགས ng o k
+སྔོངས ng o ng
+སྔོན ng ed
+སྔོམ ng o m
+སྔོར ng ow
+སྔོས ng edb
+བརྔ ng a
+བརྔད ng ecb
+བརྔན ng ec
+བརྔབ ng a p
+བརྔབས ng a p
+བརྔམ ng a m
+བརྔམས ng a m
+བརྔས ng ecb
+བརྔུབ ng u p
+བརྔུབས ng u p
+བརྔོ ng o
+བརྔོད ng edb
+བརྔོན ng ed
+བརྔོས ng edb
+བསྔག ng a k
+བསྔགས ng a k
+བསྔང ng a ng
+བསྔངས ng a ng
+བསྔལ ng ecw
+བསྔས ng ecb
+བསྔོ ng o
+བསྔོག ng o k
+བསྔོགས ng o k
+བསྔོས ng edb
+ཅ tx a
+ཅག tx a k
+ཅང tx a ng
+ཅངས tx a ng
+ཅད tx ecb
+ཅན tx ec
+ཅབ tx a p
+ཅམ tx a m
+ཅར tx aw
+ཅལ tx ecw
+ཅས tx ecb
+ཅི tx i
+ཅིག tx i k
+ཅིང tx i ng
+ཅིན tx ii
+ཅིམ tx i m
+ཅིར tx iw
+ཅིལ tx iw
+ཅིས tx ib
+ཅུ tx u
+ཅུག tx u k
+ཅུང tx u ng
+ཅུད tx yb
+ཅུན tx yy
+ཅུར tx uw
+ཅུས tx yb
+ཅེ tx e
+ཅེན tx ee
+ཅེམ tx e m
+ཅེར tx ew
+ཅེས tx eb
+ཅོ tx o
+ཅོག tx o k
+ཅོང tx o ng
+ཅོད tx edb
+ཅོན tx ed
+ཅོབ tx o p
+ཅོམ tx o m
+ཅོལ tx edw
+ཅོས tx edb
+གཅག tx a k
+གཅགས tx a k
+གཅང tx a ng
+གཅད tx ecb
+གཅན tx ec
+གཅམ tx a m
+གཅར tx aw
+གཅལ tx ecw
+གཅི tx i
+གཅིག tx i k
+གཅིགས tx i k
+གཅིན tx ii
+གཅིར tx iw
+གཅིལ tx iw
+གཅིས tx ib
+གཅུ tx u
+གཅུག tx u k
+གཅུགས tx u k
+གཅུང tx u ng
+གཅུད tx yb
+གཅུན tx yy
+གཅུམ tx u m
+གཅུར tx uw
+གཅུས tx yb
+གཅེ tx e
+གཅེན tx ee
+གཅེམ tx e m
+གཅེར tx ew
+གཅེས tx eb
+གཅོ tx o
+གཅོག tx o k
+གཅོང tx o ng
+གཅོད tx edb
+གཅོམ tx o m
+གཅོར tx ow
+གཅོལ tx edw
+གཅོས tx edb
+བཅའ tx a
+བཅག tx a k
+བཅགས tx a k
+བཅང tx a ng
+བཅངས tx a ng
+བཅད tx ecb
+བཅབ tx a p
+བཅབས tx a p
+བཅམ tx a m
+བཅམས tx a m
+བཅར tx aw
+བཅལ tx ecw
+བཅས tx ecb
+བཅིགས tx i k
+བཅིང tx i ng
+བཅིངས tx i ng
+བཅིབ tx i p
+བཅིབས tx i p
+བཅིར tx iw
+བཅིལ tx iw
+བཅུ tx u
+བཅུག tx u k
+བཅུགས tx u k
+བཅུད tx yb
+བཅུན tx yy
+བཅུམ tx u m
+བཅུམས tx u m
+བཅུར tx uw
+བཅུས tx yb
+བཅེམ tx e m
+བཅེམས tx e m
+བཅེར tx ew
+བཅོ tx o
+བཅོག tx o k
+བཅོད tx edb
+བཅོམ tx o m
+བཅོམས tx o m
+བཅོལ tx edw
+བཅོས tx edb
+ལྕ tx a
+ལྕག tx a k
+ལྕགས tx a k
+ལྕང tx a ng
+ལྕམ tx a m
+ལྕི tx i
+ལྕིག tx i k
+ལྕིགས tx i k
+ལྕིད tx ib
+ལྕིབ tx i p
+ལྕིབས tx i p
+ལྕུ tx u
+ལྕུག tx u k
+ལྕུགས tx u k
+ལྕུང tx u ng
+ལྕུན tx yy
+ལྕུམ tx u m
+ལྕེ tx e
+ལྕེབ tx e p
+ལྕེབས tx e p
+ལྕེར tx ew
+ལྕེས tx eb
+ལྕོ tx o
+ལྕོག tx o k
+ལྕོགས tx o k
+ལྕོང tx o ng
+ལྕོངས tx o ng
+ཆ txh a
+ཆག txh a k
+ཆགས txh a k
+ཆང txh a ng
+ཆངས txh a ng
+ཆད txh ecb
+ཆན txh ec
+ཆབ txh a p
+ཆབས txh a p
+ཆམ txh a m
+ཆམས txh a m
+ཆར txh aw
+ཆལ txh ecw
+ཆས txh ecb
+ཆི txh i
+ཆིག txh i k
+ཆིང txh i ng
+ཆིངས txh i ng
+ཆིན txh ii
+ཆིབ txh i p
+ཆིབས txh i p
+ཆིམ txh i m
+ཆིར txh iw
+ཆིལ txh iw
+ཆིས txh ib
+ཆུ txh u
+ཆུག txh u k
+ཆུགས txh u k
+ཆུང txh u ng
+ཆུངས txh u ng
+ཆུད txh yb
+ཆུན txh yy
+ཆུབ txh u p
+ཆུམ txh u m
+ཆུམས txh u m
+ཆུར txh uw
+ཆུས txh yb
+ཆེ txh e
+ཆེད txh eb
+ཆེན txh ee
+ཆེམ txh e m
+ཆེམས txh e m
+ཆེར txh ew
+ཆེས txh eb
+ཆོ txh o
+ཆོག txh o k
+ཆོགས txh o k
+ཆོང txh o ng
+ཆོངས txh o ng
+ཆོད txh edb
+ཆོན txh ed
+ཆོབ txh o p
+ཆོབས txh o p
+ཆོམ txh o m
+ཆོམས txh o m
+ཆོར txh ow
+ཆོལ txh edw
+ཆོས txh edb
+མཆའ txh a
+མཆད txh ecb
+མཆན txh ec
+མཆི txh i
+མཆིག txh i k
+མཆིང txh i ng
+མཆིད txh ib
+མཆིན txh ii
+མཆིམས txh i m
+མཆིལ txh iw
+མཆིས txh ib
+མཆུ txh u
+མཆུས txh yb
+མཆེ txh e
+མཆེད txh eb
+མཆེན txh ee
+མཆེར txh ew
+མཆེལ txh ew
+མཆེས txh eb
+མཆོག txh o k
+མཆོགས txh o k
+མཆོང txh o ng
+མཆོངས txh o ng
+མཆོད txh edb
+མཆོར txh ow
+འཆའ txh a
+འཆག txh a k
+འཆགས txh a k
+འཆང txh a ng
+འཆངས txh a ng
+འཆད txh ecb
+འཆབ txh a p
+འཆམ txh a m
+འཆམས txh a m
+འཆར txh aw
+འཆལ txh ecw
+འཆས txh ecb
+འཆི txh i
+འཆིང txh i ng
+འཆིངས txh i ng
+འཆིབ txh i p
+འཆིམས txh i m
+འཆིར txh iw
+འཆུ txh u
+འཆུག txh u k
+འཆུགས txh u k
+འཆུན txh yy
+འཆུམ txh u m
+འཆུམས txh u m
+འཆུར txh uw
+འཆུས txh yb
+འཆེ txh e
+འཆེག txh a k
+འཆེམ txh e m
+འཆེལ txh ew
+འཆེས txh eb
+འཆོ txh o
+འཆོགས txh o k
+འཆོབས txh o p
+འཆོམ txh o m
+འཆོམས txh o m
+འཆོར txh ow
+འཆོལ txh edw
+འཆོས txh edb
+ཇ txh a
+ཇག txh a k
+ཇགས txh a k
+ཇང txh a ng
+ཇབ txh a p
+ཇམ txh a m
+ཇི txh i
+ཇིག txh i k
+ཇིང txh i ng
+ཇིན txh ii
+ཇིབས txh i p
+ཇིས txh ib
+ཇུ txh u
+ཇུན txh yy
+ཇུས txh yb
+ཇེ txh e
+ཇེང txh e ng
+ཇེམ txh e m
+ཇོ txh o
+ཇོབ txh o p
+མཇའ tx a
+མཇལ tx ecw
+མཇིང tx i ng
+མཇུག tx u k
+མཇུད tx yb
+མཇེ tx e
+མཇེད tx eb
+མཇེས tx eb
+མཇོར tx ow
+མཇོལ tx edw
+འཇའ tx a
+འཇག tx a k
+འཇགས tx a k
+འཇང tx a ng
+འཇངས tx a ng
+འཇད tx ecb
+འཇན tx ec
+འཇབ tx a p
+འཇབས tx a p
+འཇམ tx a m
+འཇར tx aw
+འཇལ tx ecw
+འཇས tx ecb
+འཇི tx i
+འཇིག tx i k
+འཇིགས tx i k
+འཇིང tx i ng
+འཇིངས tx i ng
+འཇིད tx ib
+འཇིབ tx i p
+འཇིབས tx i p
+འཇིམ tx i m
+འཇིལ tx iw
+འཇུ tx u
+འཇུག tx u k
+འཇུང tx u ng
+འཇུངས tx u ng
+འཇུད tx yb
+འཇུན tx yy
+འཇུམ tx u m
+འཇུམས tx u m
+འཇུར tx uw
+འཇུས tx yb
+འཇེ tx e
+འཇེན tx ee
+འཇེབས tx e p
+འཇེམ tx e m
+འཇེར tx ew
+འཇེས tx eb
+འཇོ tx o
+འཇོག tx o k
+འཇོང tx o ng
+འཇོངས tx o ng
+འཇོད tx edb
+འཇོན tx ed
+འཇོབས tx o p
+འཇོམ tx o m
+འཇོམས tx o m
+འཇོར tx ow
+འཇོལ tx edw
+འཇོས tx edb
+རྗང tx a ng
+རྗི tx i
+རྗིང tx i ng
+རྗིད tx ib
+རྗུད tx yb
+རྗེ tx e
+རྗེང tx e ng
+རྗེད tx eb
+རྗེན tx ee
+རྗེས tx eb
+རྗོ tx o
+རྗོགས tx o k
+རྗོང tx o ng
+རྗོད tx edb
+ལྗགས tx a k
+ལྗང tx a ng
+ལྗན tx ec
+ལྗབ tx a p
+ལྗར tx aw
+ལྗི tx i
+ལྗིད tx ib
+ལྗིན tx ii
+ལྗིབ tx i p
+ལྗིབས tx i p
+ལྗོང tx o ng
+ལྗོངས tx o ng
+ལྗོན tx ed
+ལྗོབ tx o p
+བརྗིད tx ib
+བརྗེ tx e
+བརྗེད tx eb
+བརྗེས tx eb
+བརྗོད tx edb
+ཉ nn a
+ཉག nn a k
+ཉང nn a ng
+ཉད nn ecb
+ཉན nn ec
+ཉབ nn a p
+ཉབས nn a p
+ཉམ nn a m
+ཉམས nn a m
+ཉར nn aw
+ཉལ nn ecw
+ཉི nn i
+ཉིག nn i k
+ཉིགས nn i k
+ཉིང nn i ng
+ཉིད nn ib
+ཉིན nn ii
+ཉིར nn iw
+ཉིལ nn iw
+ཉིས nn ib
+ཉུ nn u
+ཉུག nn u k
+ཉུགས nn u k
+ཉུང nn u ng
+ཉུངས nn u ng
+ཉུལ nn y
+ཉེ nn e
+ཉེག nn a k
+ཉེང nn e ng
+ཉེད nn eb
+ཉེན nn ee
+ཉེར nn ew
+ཉེལ nn ew
+ཉེས nn eb
+ཉོ nn o
+ཉོག nn o k
+ཉོང nn o ng
+ཉོད nn edb
+ཉོན nn ed
+ཉོབ nn o p
+ཉོབས nn o p
+ཉོར nn ow
+ཉོལ nn edw
+ཉོས nn edb
+ཉྭ nn a
+གཉའ nn a
+གཉག nn a k
+གཉགས nn a k
+གཉང nn a ng
+གཉན nn ec
+གཉབ nn a p
+གཉལ nn ecw
+གཉི nn i
+གཉིག nn i k
+གཉིད nn ib
+གཉིམ nn i m
+གཉིལ nn iw
+གཉིས nn ib
+གཉུག nn u k
+གཉུགས nn u k
+གཉུལ nn y
+གཉེ nn e
+གཉེག nn a k
+གཉེན nn ee
+གཉེར nn ew
+གཉེལ nn ew
+གཉོག nn o k
+གཉོགས nn o k
+གཉོང nn o ng
+གཉོད nn edb
+གཉོན nn ed
+གཉོམ nn o m
+གཉོས nn edb
+མཉའ nn a
+མཉན nn ec
+མཉམ nn a m
+མཉལ nn ecw
+མཉིས nn ib
+མཉེ nn e
+མཉེད nn eb
+མཉེན nn ee
+མཉེལ nn ew
+མཉེས nn eb
+རྙ nn a
+རྙང nn a ng
+རྙན nn ec
+རྙབ nn a p
+རྙི nn i
+རྙིག nn i k
+རྙིང nn i ng
+རྙིངས nn i ng
+རྙིད nn ib
+རྙིབ nn i p
+རྙིལ nn iw
+རྙིས nn ib
+རྙེངས nn e ng
+རྙེད nn eb
+རྙོག nn o k
+རྙོགས nn o k
+རྙོང nn o ng
+རྙོངས nn o ng
+རྙོན nn ed
+རྙོབ nn o p
+རྙོབས nn o p
+རྙོས nn edb
+སྙ nn a
+སྙག nn a k
+སྙགས nn a k
+སྙང nn a ng
+སྙད nn ecb
+སྙན nn ec
+སྙབ nn a p
+སྙབས nn a p
+སྙམ nn a m
+སྙམས nn a m
+སྙལ nn ecw
+སྙི nn i
+སྙིག nn i k
+སྙིགས nn i k
+སྙིང nn i ng
+སྙིད nn ib
+སྙིམ nn i m
+སྙིམས nn i m
+སྙིལ nn iw
+སྙིས nn ib
+སྙུ nn u
+སྙུག nn u k
+སྙུགས nn u k
+སྙུང nn u ng
+སྙུངས nn u ng
+སྙུན nn yy
+སྙེ nn e
+སྙེག nn a k
+སྙེགས nn a k
+སྙེང nn e ng
+སྙེངས nn e ng
+སྙེད nn eb
+སྙེན nn ee
+སྙེམ nn e m
+སྙེམས nn e m
+སྙེར nn ew
+སྙེལ nn ew
+སྙེས nn eb
+སྙོ nn o
+སྙོག nn o k
+སྙོགས nn o k
+སྙོང nn o ng
+སྙོངས nn o ng
+སྙོད nn edb
+སྙོན nn ed
+སྙོབ nn o p
+སྙོབས nn o p
+སྙོམ nn o m
+སྙོམས nn o m
+སྙོར nn ow
+སྙོལ nn edw
+བརྙ nn a
+བརྙང nn a ng
+བརྙངས nn a ng
+བརྙན nn ec
+བརྙབ nn a p
+བརྙབས nn a p
+བརྙས nn ecb
+བརྙིང nn i ng
+བརྙིངས nn i ng
+བརྙིད nn ib
+བརྙིས nn ib
+བརྙེས nn eb
+བརྙོག nn o k
+བརྙོགས nn o k
+བརྙོངས nn o ng
+བརྙོས nn edb
+བསྙག nn a k
+བསྙགས nn a k
+བསྙད nn ecb
+བསྙབ nn a p
+བསྙབས nn a p
+བསྙམ nn a m
+བསྙམས nn a m
+བསྙལ nn ecw
+བསྙས nn ecb
+བསྙིག nn i k
+བསྙིགས nn i k
+བསྙིངས nn i ng
+བསྙིལ nn iw
+བསྙིས nn ib
+བསྙུག nn u k
+བསྙུགས nn u k
+བསྙུང nn u ng
+བསྙུངས nn u ng
+བསྙུན nn yy
+བསྙུར nn uw
+བསྙུལ nn y
+བསྙེ nn e
+བསྙེག nn a k
+བསྙེགས nn a k
+བསྙེང nn e ng
+བསྙེངས nn e ng
+བསྙེད nn eb
+བསྙེན nn ee
+བསྙེམ nn e m
+བསྙེམས nn e m
+བསྙེར nn ew
+བསྙེལ nn ew
+བསྙེས nn eb
+བསྙོག nn o k
+བསྙོགས nn o k
+བསྙོད nn edb
+བསྙོན nn ed
+བསྙོབས nn o p
+བསྙོམས nn o m
+བསྙོར nn ow
+བསྙོལ nn edw
+ཏ t a
+ཏག t a k
+ཏང t a ng
+ཏད t ecb
+ཏན t ec
+ཏབ t a p
+ཏམ t a m
+ཏར t aw
+ཏལ t ecw
+ཏས t ecb
+ཏི t i
+ཏིག t i k
+ཏིང t i ng
+ཏིངས t i ng
+ཏིན t ii
+ཏིབ t i p
+ཏིམ t i m
+ཏིར t iw
+ཏིལ t iw
+ཏིས t ib
+ཏུ t u
+ཏུག t u k
+ཏུང t u ng
+ཏུབ t u p
+ཏུམ t u m
+ཏུར t uw
+ཏུལ t y
+ཏེ t e
+ཏེག t a k
+ཏེང t e ng
+ཏེན t ee
+ཏེབ t e p
+ཏེར t ew
+ཏེལ t ew
+ཏོ t o
+ཏོག t o k
+ཏོང t o ng
+ཏོན t ed
+ཏོབ t o p
+ཏོམ t o m
+ཏོར t ow
+ཏོལ t edw
+ཏོས t edb
+ཏྲ ds a
+ཏྲེ ds e
+ཏྲེམ ds e m
+ཏྲོན ds ed
+གཏའ t a
+གཏག t a k
+གཏགས t a k
+གཏང t a ng
+གཏད t ecb
+གཏན t ec
+གཏམ t a m
+གཏམས t a m
+གཏར t aw
+གཏལ t ecw
+གཏི t i
+གཏིག t i k
+གཏིགས t i k
+གཏིང t i ng
+གཏིབ t i p
+གཏིབས t i p
+གཏིམ t i m
+གཏིར t iw
+གཏུ t u
+གཏུག t u k
+གཏུགས t u k
+གཏུན t yy
+གཏུབ t u p
+གཏུབས t u p
+གཏུམ t u m
+གཏུམས t u m
+གཏུར t uw
+གཏུལ t y
+གཏེ t e
+གཏེང t e ng
+གཏེར t ew
+གཏོ t o
+གཏོག t o k
+གཏོགས t o k
+གཏོང t o ng
+གཏོད t edb
+གཏོན t ed
+གཏོམ t o m
+གཏོམས t o m
+གཏོར t ow
+གཏོལ t edw
+གཏོས t edb
+བཏའ t a
+བཏག t a k
+བཏགས t a k
+བཏང t a ng
+བཏད t ecb
+བཏབ t a p
+བཏབས t a p
+བཏམ t a m
+བཏམས t a m
+བཏིག t i k
+བཏིགས t i k
+བཏིང t i ng
+བཏིངས t i ng
+བཏིབ t i p
+བཏིལ t iw
+བཏུ t u
+བཏུང t u ng
+བཏུངས t u ng
+བཏུད t yb
+བཏུབ t u p
+བཏུབས t u p
+བཏུམ t u m
+བཏུམས t u m
+བཏུར t uw
+བཏུལ t y
+བཏུས t yb
+བཏེག t a k
+བཏེགས t a k
+བཏོག t o k
+བཏོགས t o k
+བཏོད t edb
+བཏོན t ed
+བཏོལ t edw
+རྟ t a
+རྟག t a k
+རྟགས t a k
+རྟང t a ng
+རྟན t ec
+རྟབ t a p
+རྟས t ecb
+རྟི t i
+རྟིང t i ng
+རྟིབ t i p
+རྟིབས t i p
+རྟིས t ib
+རྟུག t u k
+རྟུན t yy
+རྟུལ t y
+རྟེང t e ng
+རྟེན t ee
+རྟེམ t e m
+རྟོག t o k
+རྟོགས t o k
+རྟོད t edb
+རྟོན t ed
+རྟོབ t o p
+རྟོབས t o p
+རྟོལ t edw
+ལྟ t a
+ལྟག t a k
+ལྟང t a ng
+ལྟད t ecb
+ལྟབ t a p
+ལྟབས t a p
+ལྟམ t a m
+ལྟམས t a m
+ལྟར t aw
+ལྟས t ecb
+ལྟི t i
+ལྟིག t i k
+ལྟིང t i ng
+ལྟིར t iw
+ལྟུང t u ng
+ལྟུངས t u ng
+ལྟུར t uw
+ལྟེ t e
+ལྟེང t e ng
+ལྟེངས t e ng
+ལྟེད t eb
+ལྟེབ t e p
+ལྟེབས t e p
+ལྟེམ t e m
+ལྟེམས t e m
+ལྟོ t o
+ལྟོག t o k
+ལྟོགས t o k
+ལྟོང t o ng
+ལྟོངས t o ng
+ལྟོད t edb
+ལྟོབ t o p
+ལྟོབས t o p
+ལྟོམས t o m
+ལྟོལ t edw
+ལྟོས t edb
+སྟ t a
+སྟག t a k
+སྟགས t a k
+སྟང t a ng
+སྟངས t a ng
+སྟད t ecb
+སྟན t ec
+སྟབ t a p
+སྟབས t a p
+སྟར t aw
+སྟི t i
+སྟིང t i ng
+སྟིངས t i ng
+སྟིབས t i p
+སྟིམ t i m
+སྟིམས t i m
+སྟིས t ib
+སྟུ t u
+སྟུག t u k
+སྟུང t u ng
+སྟུངས t u ng
+སྟུད t yb
+སྟུན t yy
+སྟུབས t u p
+སྟུམ t u m
+སྟེ t e
+སྟེག t a k
+སྟེགས t a k
+སྟེང t e ng
+སྟེངས t e ng
+སྟེན t ee
+སྟེམ t e m
+སྟེམས t e m
+སྟེར t ew
+སྟེས t eb
+སྟོ t o
+སྟོང t o ng
+སྟོངས t o ng
+སྟོད t edb
+སྟོན t ed
+སྟོབ t o p
+སྟོབས t o p
+སྟོམ t o m
+སྟོར t ow
+སྟོས t edb
+བརྟ t a
+བརྟག t a k
+བརྟགས t a k
+བརྟད t ecb
+བརྟན t ec
+བརྟབ t a p
+བརྟབས t a p
+བརྟས t ecb
+བརྟིབ t i p
+བརྟིབས t i p
+བརྟུན t yy
+བརྟུལ t y
+བརྟེན t ee
+བརྟོད t edb
+བརྟོལ t edw
+བལྟ t a
+བལྟབ t a p
+བལྟབས t a p
+བལྟམ t a m
+བལྟམས t a m
+བལྟར t aw
+བལྟས t ecb
+བལྟེབས t e p
+བལྟོས t edb
+བསྟང t a ng
+བསྟངས t a ng
+བསྟད t ecb
+བསྟན t ec
+བསྟབ t a p
+བསྟབས t a p
+བསྟར t aw
+བསྟས t ecb
+བསྟི t i
+བསྟིང t i ng
+བསྟིངས t i ng
+བསྟིབས t i p
+བསྟིམ t i m
+བསྟིམས t i m
+བསྟིར t iw
+བསྟིས t ib
+བསྟུང t u ng
+བསྟུངས t u ng
+བསྟུད t yb
+བསྟུན t yy
+བསྟུམ t u m
+བསྟུམས t u m
+བསྟེན t ee
+བསྟེར t ew
+བསྟོང t o ng
+བསྟོངས t o ng
+བསྟོད t edb
+ཐ th a
+ཐག th a k
+ཐགས th a k
+ཐང th a ng
+ཐད th ecb
+ཐན th ec
+ཐབ th a p
+ཐབས th a p
+ཐམ th a m
+ཐམས th a m
+ཐར th aw
+ཐལ th ecw
+ཐི th i
+ཐིག th i k
+ཐིགས th i k
+ཐིང th i ng
+ཐིངས th i ng
+ཐིབ th i p
+ཐིབས th i p
+ཐིམ th i m
+ཐིར th iw
+ཐིལ th iw
+ཐིས th ib
+ཐུ th u
+ཐུག th u k
+ཐུགས th u k
+ཐུང th u ng
+ཐུངས th u ng
+ཐུད th yb
+ཐུན th yy
+ཐུབ th u p
+ཐུམ th u m
+ཐུམས th u m
+ཐུར th uw
+ཐུལ th y
+ཐུས th yb
+ཐེ th e
+ཐེག th a k
+ཐེགས th a k
+ཐེང th e ng
+ཐེངས th e ng
+ཐེད th eb
+ཐེན th ee
+ཐེབ th e p
+ཐེབས th e p
+ཐེམ th e m
+ཐེམས th e m
+ཐེར th ew
+ཐེལ th ew
+ཐེས th eb
+ཐོ th o
+ཐོག th o k
+ཐོགས th o k
+ཐོང th o ng
+ཐོངས th o ng
+ཐོད th edb
+ཐོན th ed
+ཐོབ th o p
+ཐོབས th o p
+ཐོམ th o m
+ཐོམས th o m
+ཐོར th ow
+ཐོལ th edw
+ཐོས th edb
+མཐའ th a
+མཐང th a ng
+མཐངས th a ng
+མཐར th aw
+མཐས th ecb
+མཐིང th i ng
+མཐིལ th iw
+མཐུ th u
+མཐུག th u k
+མཐུད th yb
+མཐུན th yy
+མཐུབ th u p
+མཐུར th uw
+མཐུས th yb
+མཐེ th e
+མཐེབ th e p
+མཐོ th o
+མཐོང th o ng
+མཐོངས th o ng
+མཐོན th ed
+མཐོར th ow
+མཐོལ th edw
+མཐོས th edb
+འཐག th a k
+འཐགས th a k
+འཐང th a ng
+འཐད th ecb
+འཐན th ec
+འཐབ th a p
+འཐབས th a p
+འཐམ th a m
+འཐམས th a m
+འཐར th aw
+འཐལ th ecw
+འཐས th ecb
+འཐིག th i k
+འཐིགས th i k
+འཐིང th i ng
+འཐིངས th i ng
+འཐིབ th i p
+འཐིབས th i p
+འཐིམ th i m
+འཐུ th u
+འཐུག th u k
+འཐུང th u ng
+འཐུངས th u ng
+འཐུད th yb
+འཐུན th yy
+འཐུབ th u p
+འཐུམ th u m
+འཐུམས th u m
+འཐུར th uw
+འཐུལ th y
+འཐུས th yb
+འཐེག th a k
+འཐེགས th a k
+འཐེང th e ng
+འཐེངས th e ng
+འཐེད th eb
+འཐེན th ee
+འཐེབ th e p
+འཐེབས th e p
+འཐེམ th e m
+འཐེམས th e m
+འཐོག th o k
+འཐོགས th o k
+འཐོན th ed
+འཐོབ th o p
+འཐོབས th o p
+འཐོམ th o m
+འཐོམས th o m
+འཐོར th ow
+འཐོལ th edw
+ད th a
+དག th a k
+དང th a ng
+དད th ecb
+དན th ec
+དབ th a p
+དམ th a m
+དར th aw
+དལ th ecw
+དས th ecb
+དི th i
+དིག th i k
+དིང th i ng
+དིབ th i p
+དིམ th i m
+དིར th iw
+དིས th ib
+དུ th u
+དུག th u k
+དུགས th u k
+དུང th u ng
+དུངས th u ng
+དུད th yb
+དུན th yy
+དུབ th u p
+དུབས th u p
+དུམ th u m
+དུར th uw
+དུལ th y
+དུས th yb
+དེ th e
+དེང th e ng
+དེངས th e ng
+དེད th eb
+དེན th ee
+དེབ th e p
+དེམ th e m
+དེར th ew
+དེས th eb
+དོ th o
+དོག th o k
+དོགས th o k
+དོང th o ng
+དོངས th o ng
+དོད th edb
+དོན th ed
+དོབ th o p
+དོམ th o m
+དོམས th o m
+དོར th ow
+དོལ th edw
+དོས th edb
+དྭ t a
+དྭགས t a k
+དྭངས t a ng
+དྭོ t o
+དྲ ds a
+དྲག ds a k
+དྲགས ds a k
+དྲང ds a ng
+དྲངས ds a ng
+དྲད ds ecb
+དྲན ds ec
+དྲབ ds a p
+དྲམ ds a m
+དྲལ ds ecw
+དྲས ds ecb
+དྲི ds i
+དྲིང ds i ng
+དྲིན ds ii
+དྲིར ds iw
+དྲིལ ds iw
+དྲིས ds ib
+དྲུ ds u
+དྲུག ds u k
+དྲུང ds u ng
+དྲུངས ds u ng
+དྲུད ds yb
+དྲུབ ds u p
+དྲུབས ds u p
+དྲུམ ds u m
+དྲུམས ds u m
+དྲུལ ds y
+དྲུས ds yb
+དྲེ ds e
+དྲེག ds a k
+དྲེགས ds a k
+དྲེང ds e ng
+དྲེད ds eb
+དྲེབ ds e p
+དྲེལ ds ew
+དྲེས ds eb
+དྲོ ds o
+དྲོག ds o k
+དྲོགས ds o k
+དྲོང ds o ng
+དྲོངས ds o ng
+དྲོད ds edb
+དྲོན ds ed
+དྲོལ ds edw
+དྲོས ds edb
+དྲྭ ds a
+གདའ t a
+གདག t a k
+གདགས t a k
+གདང t a ng
+གདངས t a ng
+གདན t ec
+གདབ t a p
+གདམ t a m
+གདམས t a m
+གདར t aw
+གདལ t ecw
+གདས t ecb
+གདིང t i ng
+གདུ t u
+གདུག t u k
+གདུགས t u k
+གདུང t u ng
+གདུངས t u ng
+གདུད t yb
+གདུབ t u p
+གདུམ t u m
+གདུལ t y
+གདུས t yb
+གདེག t a k
+གདེགས t a k
+གདེང t e ng
+གདེངས t e ng
+གདོང t o ng
+གདོངས t o ng
+གདོད t edb
+གདོན t ed
+གདོམས t o m
+གདོལ t edw
+གདོས t edb
+བདའ t a
+བདག t a k
+བདང t a ng
+བདམ t a m
+བདམས t a m
+བདར t aw
+བདལ t ecw
+བདས t ecb
+བདུག t u k
+བདུགས t u k
+བདུང t u ng
+བདུངས t u ng
+བདུད t yb
+བདུན t yy
+བདེ t e
+བདེན t ee
+བདེར t ew
+བདོ t o
+བདོག t o k
+བདོད t edb
+བདོར t ow
+བདོལ t edw
+མདའ t a
+མདག t a k
+མདང t a ng
+མདངས t a ng
+མདན t ec
+མདས t ecb
+མདུང t u ng
+མདུད t yb
+མདུན t yy
+མདེགས t a k
+མདེལ t ew
+མདོ t o
+མདོག t o k
+མདོང t o ng
+མདོངས t o ng
+མདོམས t o m
+མདོར t ow
+མདོས t edb
+འདའ t a
+འདག t a k
+འདང t a ng
+འདངས t a ng
+འདད t ecb
+འདན t ec
+འདབ t a p
+འདབས t a p
+འདམ t a m
+འདམས t a m
+འདར t aw
+འདལ t ecw
+འདས t ecb
+འདི t i
+འདིག t i k
+འདིང t i ng
+འདིངས t i ng
+འདིན t ii
+འདིར t iw
+འདིས t ib
+འདུ t u
+འདུག t u k
+འདུད t yb
+འདུན t yy
+འདུམ t u m
+འདུམས t u m
+འདུར t uw
+འདུལ t y
+འདུས t yb
+འདེ t e
+འདེགས t a k
+འདེང t e ng
+འདེངས t e ng
+འདེད t eb
+འདེབ t e p
+འདེབས t e p
+འདེམ t e m
+འདེམས t e m
+འདེལ t ew
+འདེས t eb
+འདོ t o
+འདོག t o k
+འདོགས t o k
+འདོང t o ng
+འདོངས t o ng
+འདོད t edb
+འདོན t ed
+འདོབ t o p
+འདོམ t o m
+འདོམས t o m
+འདོར t ow
+འདོལ t edw
+འདྲ ds a
+འདྲག ds a k
+འདྲགས ds a k
+འདྲད ds ecb
+འདྲན ds ec
+འདྲལ ds ecw
+འདྲས ds ecb
+འདྲི ds i
+འདྲིད ds ib
+འདྲིན ds ii
+འདྲིམ ds i m
+འདྲིར ds iw
+འདྲིལ ds iw
+འདྲིས ds ib
+འདྲུ ds u
+འདྲུག ds u k
+འདྲུད ds yb
+འདྲུབ ds u p
+འདྲུབས ds u p
+འདྲུམས ds u m
+འདྲུལ ds y
+འདྲུས ds yb
+འདྲེ ds e
+འདྲེག ds a k
+འདྲེགས ds a k
+འདྲེད ds eb
+འདྲེན ds ee
+འདྲེར ds ew
+འདྲེས ds eb
+འདྲོག ds o k
+འདྲོགས ds o k
+འདྲོང ds o ng
+འདྲོངས ds o ng
+འདྲོད ds edb
+འདྲོབ ds o p
+འདྲོབས ds o p
+རྡག t a k
+རྡང t a ng
+རྡབ t a p
+རྡར t aw
+རྡལ t ecw
+རྡི t i
+རྡིག t i k
+རྡིབ t i p
+རྡིབས t i p
+རྡིས t ib
+རྡུ t u
+རྡུགས t u k
+རྡུང t u ng
+རྡུངས t u ng
+རྡུབ t u p
+རྡུམ t u m
+རྡུལ t y
+རྡེ t e
+རྡེག t a k
+རྡེགས t a k
+རྡེབ t e p
+རྡེབས t e p
+རྡེལ t ew
+རྡོ t o
+རྡོག t o k
+རྡོབ t o p
+རྡོབས t o p
+རྡོམ t o m
+རྡོར t ow
+རྡོལ t edw
+རྡོས t edb
+ལྡ t a
+ལྡག t a k
+ལྡགས t a k
+ལྡང t a ng
+ལྡངས t a ng
+ལྡད t ecb
+ལྡན t ec
+ལྡབ t a p
+ལྡབས t a p
+ལྡམ t a m
+ལྡར t aw
+ལྡས t ecb
+ལྡི t i
+ལྡིག t i k
+ལྡིང t i ng
+ལྡིངས t i ng
+ལྡིབ t i p
+ལྡིབས t i p
+ལྡིར t iw
+ལྡུ t u
+ལྡུག t u k
+ལྡུགས t u k
+ལྡུད t yb
+ལྡུབ t u p
+ལྡུམ t u m
+ལྡུར t uw
+ལྡུས t yb
+ལྡེ t e
+ལྡེག t a k
+ལྡེང t e ng
+ལྡེངས t e ng
+ལྡེབ t e p
+ལྡེབས t e p
+ལྡེམ t e m
+ལྡེམས t e m
+ལྡེར t ew
+ལྡེས t eb
+ལྡོག t o k
+ལྡོགས t o k
+ལྡོང t o ng
+ལྡོངས t o ng
+ལྡོད t edb
+ལྡོན t ed
+ལྡོབ t o p
+ལྡོབས t o p
+ལྡོམ t o m
+ལྡོམས t o m
+སྡག t a k
+སྡང t a ng
+སྡན t ec
+སྡམ t a m
+སྡར t aw
+སྡི t i
+སྡིག t i k
+སྡིགས t i k
+སྡིང t i ng
+སྡིངས t i ng
+སྡིར t iw
+སྡིས t ib
+སྡུ t u
+སྡུག t u k
+སྡུད t yb
+སྡུམ t u m
+སྡུམས t u m
+སྡུར t uw
+སྡུལ t y
+སྡུས t yb
+སྡེ t e
+སྡེངས t e ng
+སྡེབ t e p
+སྡེབས t e p
+སྡེམ t e m
+སྡེམས t e m
+སྡེར t ew
+སྡེལ t ew
+སྡོ t o
+སྡོག t o k
+སྡོགས t o k
+སྡོང t o ng
+སྡོངས t o ng
+སྡོད t edb
+སྡོམ t o m
+སྡོམས t o m
+སྡོར t ow
+སྡོས t edb
+བརྡ t a
+བརྡའ t a
+བརྡབ t a p
+བརྡབས t a p
+བརྡར t aw
+བརྡལ t ecw
+བརྡིབ t i p
+བརྡིབས t i p
+བརྡུགས t u k
+བརྡུང t u ng
+བརྡུངས t u ng
+བརྡུལ t y
+བརྡེག t a k
+བརྡེགས t a k
+བརྡེབ t e p
+བརྡོགས t o k
+བརྡོལ t edw
+བརྡོས t edb
+བལྡག t a k
+བལྡགས t a k
+བལྡད t ecb
+བལྡབ t a p
+བལྡབས t a p
+བལྡི t i
+བལྡིར t iw
+བལྡེག t a k
+བལྡེགས t a k
+བསྡད t ecb
+བསྡམ t a m
+བསྡམས t a m
+བསྡར t aw
+བསྡི t i
+བསྡིག t i k
+བསྡིགས t i k
+བསྡིས t ib
+བསྡུ t u
+བསྡུམ t u m
+བསྡུམས t u m
+བསྡུར t uw
+བསྡུས t yb
+བསྡེབ t e p
+བསྡེབས t e p
+བསྡོ t o
+བསྡོག t o k
+བསྡོགས t o k
+བསྡོང t o ng
+བསྡོངས t o ng
+བསྡོམ t o m
+བསྡོམས t o m
+བསྡོས t edb
+ན n a
+ནག n a k
+ནགས n a k
+ནང n a ng
+ནངས n a ng
+ནད n ecb
+ནན n ec
+ནབ n a p
+ནབས n a p
+ནམ n a m
+ནམས n a m
+ནར n aw
+ནལ n ecw
+ནས n ecb
+ནི n i
+ནིག n i k
+ནིང n i ng
+ནིམ n i m
+ནིས n ib
+ནུ n u
+ནུད n yb
+ནུབ n u p
+ནུམ n u m
+ནུར n uw
+ནུལ n y
+ནུས n yb
+ནེ n e
+ནེམ n e m
+ནེར n ew
+ནོ n o
+ནོག n o k
+ནོགས n o k
+ནོང n o ng
+ནོངས n o ng
+ནོད n edb
+ནོན n ed
+ནོབས n o p
+ནོམ n o m
+ནོམས n o m
+ནོར n ow
+ནོལ n edw
+ནོས n edb
+གནའ n a
+གནག n a k
+གནང n a ng
+གནངས n a ng
+གནད n ecb
+གནན n ec
+གནམ n a m
+གནས n ecb
+གནུབ n u p
+གནུབས n u p
+གནུར n uw
+གནོག n o k
+གནོང n o ng
+གནོངས n o ng
+གནོད n edb
+གནོན n ed
+གནོས n edb
+མནའ n a
+མནག n a k
+མནགས n a k
+མནང n a ng
+མནངས n a ng
+མནན n ec
+མནབ n a p
+མནབས n a p
+མནམ n a m
+མནམས n a m
+མནར n aw
+མནལ n ecw
+མནུན n yy
+མནེར n ew
+མནོ n o
+མནོག n o k
+མནོང n o ng
+མནོད n edb
+མནོན n ed
+མནོམས n o m
+མནོལ n edw
+མནོས n edb
+རྣ n a
+རྣག n a k
+རྣགས n a k
+རྣང n a ng
+རྣན n ec
+རྣབ n a p
+རྣམ n a m
+རྣམས n a m
+རྣར n aw
+རྣལ n ecw
+རྣིལ n iw
+རྣུ n u
+རྣུར n uw
+རྣོ n o
+རྣོག n o k
+རྣོགས n o k
+རྣོང n o ng
+རྣོངས n o ng
+རྣོན n ed
+རྣོབས n o p
+རྣོར n ow
+སྣ n a
+སྣག n a k
+སྣགས n a k
+སྣང n a ng
+སྣངས n a ng
+སྣད n ecb
+སྣབས n a p
+སྣམ n a m
+སྣམས n a m
+སྣར n aw
+སྣལ n ecw
+སྣས n ecb
+སྣུད n yb
+སྣུན n yy
+སྣུབ n u p
+སྣུབས n u p
+སྣུམ n u m
+སྣུར n uw
+སྣེ n e
+སྣེད n eb
+སྣེམ n e m
+སྣེམས n e m
+སྣེས n eb
+སྣོ n o
+སྣོག n o k
+སྣོགས n o k
+སྣོད n edb
+སྣོན n ed
+སྣོམ n o m
+སྣོམས n o m
+སྣོར n ow
+སྣོལ n edw
+སྣོས n edb
+བརྣག n a k
+བརྣགས n a k
+བརྣང n a ng
+བརྣངས n a ng
+བརྣན n ec
+བརྣབ n a p
+བརྣབས n a p
+བརྣམ n a m
+བརྣུ n u
+བརྣུར n uw
+བརྣོག n o k
+བརྣོགས n o k
+བསྣངས n a ng
+བསྣད n ecb
+བསྣན n ec
+བསྣམ n a m
+བསྣམས n a m
+བསྣར n aw
+བསྣལ n ecw
+བསྣུད n yb
+བསྣུན n yy
+བསྣུབ n u p
+བསྣུབས n u p
+བསྣུར n uw
+བསྣེམ n e m
+བསྣེམས n e m
+བསྣོ n o
+བསྣོག n o k
+བསྣོགས n o k
+བསྣོད n edb
+བསྣོན n ed
+བསྣོར n ow
+བསྣོལ n edw
+བསྣོས n edb
+པ p a
+པག p a k
+པགས p a k
+པང p a ng
+པངས p a ng
+པད p ecb
+པན p ec
+པར p aw
+པལ p ecw
+པས p ecb
+པི p i
+པིག p i k
+པིང p i ng
+པིད p ib
+པིན p ii
+པིར p iw
+པིས p ib
+པུ p u
+པུག p u k
+པུན p yy
+པུར p uw
+པུས p yb
+པེ p e
+པེང p e ng
+པེད p eb
+པེན p ee
+པེལ p ew
+པོ p o
+པོག p o k
+པོད p edb
+པོན p ed
+པོར p ow
+པོས p edb
+པྲ ds a
+པྲག ds a k
+པྲི ds i
+པྲིག ds i k
+པྲེ ds e
+པྲེང ds e ng
+པྲོག ds o k
+དཔའ p a
+དཔག p a k
+དཔགས p a k
+དཔང p a ng
+དཔངས p a ng
+དཔད p ecb
+དཔམ p a m
+དཔར p aw
+དཔལ p ecw
+དཔས p ecb
+དཔུང p u ng
+དཔུར p uw
+དཔུས p yb
+དཔེ p e
+དཔེན p ee
+དཔེར p ew
+དཔེལ p ew
+དཔོག p o k
+དཔོགས p o k
+དཔོང p o ng
+དཔོད p edb
+དཔོན p ed
+དཔོར p ow
+དཔྱ tx a
+དཔྱང tx a ng
+དཔྱངས tx a ng
+དཔྱད tx ecb
+དཔྱལ tx ecw
+དཔྱས tx ecb
+དཔྱི tx i
+དཔྱིད tx ib
+དཔྱིས tx ib
+དཔྱོང tx o ng
+དཔྱོངས tx o ng
+དཔྱོད tx edb
+དཔྱོས tx edb
+དཔྲག ds a k
+དཔྲལ ds ecw
+དཔྲི ds i
+དཔྲུལ ds y
+དཔྲེ ds e
+དཔྲེས ds eb
+དཔྲོག ds o k
+ལྤགས p a k
+སྤ p a
+སྤག p a k
+སྤགས p a k
+སྤང p a ng
+སྤངས p a ng
+སྤད p ecb
+སྤན p ec
+སྤབ p a p
+སྤབས p a p
+སྤམ p a m
+སྤར p aw
+སྤི p i
+སྤིང p i ng
+སྤིན p ii
+སྤུ p u
+སྤུག p u k
+སྤུགས p u k
+སྤུང p u ng
+སྤུངས p u ng
+སྤུད p yb
+སྤུན p yy
+སྤུབ p u p
+སྤུབས p u p
+སྤུར p uw
+སྤུལ p y
+སྤུས p yb
+སྤེ p e
+སྤེད p eb
+སྤེན p ee
+སྤེལ p ew
+སྤོ p o
+སྤོག p o k
+སྤོགས p o k
+སྤོང p o ng
+སྤོངས p o ng
+སྤོད p edb
+སྤོན p ed
+སྤོབ p o p
+སྤོབས p o p
+སྤོམ p o m
+སྤོར p ow
+སྤོས p edb
+སྤྱང tx a ng
+སྤྱངས tx a ng
+སྤྱད tx ecb
+སྤྱན tx ec
+སྤྱར tx aw
+སྤྱས tx ecb
+སྤྱི tx i
+སྤྱིང tx i ng
+སྤྱིངས tx i ng
+སྤྱིན tx ii
+སྤྱིར tx iw
+སྤྱིལ tx iw
+སྤྱིས tx ib
+སྤྱུག tx u k
+སྤྱུགས tx u k
+སྤྱོ tx o
+སྤྱོང tx o ng
+སྤྱོད tx edb
+སྤྱོན tx ed
+སྤྱོམ tx o m
+སྤྱོམས tx o m
+སྤྱོར tx ow
+སྤྱོས tx edb
+སྤྲ ds a
+སྤྲག ds a k
+སྤྲགས ds a k
+སྤྲང ds a ng
+སྤྲད ds ecb
+སྤྲབས ds a p
+སྤྲལ ds ecw
+སྤྲས ds ecb
+སྤྲི ds i
+སྤྲིང ds i ng
+སྤྲིངས ds i ng
+སྤྲིན ds ii
+སྤྲིབ ds i p
+སྤྲིབས ds i p
+སྤྲིས ds ib
+སྤྲུ ds u
+སྤྲུག ds u k
+སྤྲུགས ds u k
+སྤྲུལ ds y
+སྤྲེ ds e
+སྤྲེལ ds ew
+སྤྲོ ds o
+སྤྲོག ds o k
+སྤྲོགས ds o k
+སྤྲོད ds edb
+སྤྲོམ ds o m
+སྤྲོས ds edb
+ཕ ph a
+ཕག ph a k
+ཕགས ph a k
+ཕང ph a ng
+ཕངས ph a ng
+ཕད ph ecb
+ཕན ph ec
+ཕབ ph a p
+ཕབས ph a p
+ཕམ ph a m
+ཕར ph aw
+ཕལ ph ecw
+ཕས ph ecb
+ཕི ph i
+ཕིག ph i k
+ཕིགས ph i k
+ཕིང ph i ng
+ཕིན ph ii
+ཕིབས ph i p
+ཕིམ ph i m
+ཕིར ph iw
+ཕིས ph ib
+ཕུ ph u
+ཕུག ph u k
+ཕུགས ph u k
+ཕུང ph u ng
+ཕུད ph yb
+ཕུན ph yy
+ཕུབ ph u p
+ཕུབས ph u p
+ཕུམ ph u m
+ཕུར ph uw
+ཕུལ ph y
+ཕུས ph yb
+ཕེ ph e
+ཕེག ph a k
+ཕེད ph eb
+ཕེན ph ee
+ཕེབ ph e p
+ཕེབས ph e p
+ཕེར ph ew
+ཕེལ ph ew
+ཕོ ph o
+ཕོག ph o k
+ཕོགས ph o k
+ཕོང ph o ng
+ཕོངས ph o ng
+ཕོད ph edb
+ཕོན ph ed
+ཕོབ ph o p
+ཕོབས ph o p
+ཕོམ ph o m
+ཕོར ph ow
+ཕོལ ph edw
+ཕོས ph edb
+ཕྱ txh a
+ཕྱག txh a k
+ཕྱགས txh a k
+ཕྱང txh a ng
+ཕྱད txh ecb
+ཕྱམ txh a m
+ཕྱར txh aw
+ཕྱལ txh ecw
+ཕྱི txh i
+ཕྱིག txh i k
+ཕྱིང txh i ng
+ཕྱིད txh ib
+ཕྱིན txh ii
+ཕྱིབས txh i p
+ཕྱིམ txh i m
+ཕྱིར txh iw
+ཕྱིལ txh iw
+ཕྱིས txh ib
+ཕྱུ txh u
+ཕྱུག txh u k
+ཕྱུགས txh u k
+ཕྱུང txh u ng
+ཕྱུངས txh u ng
+ཕྱུབ txh u p
+ཕྱུར txh uw
+ཕྱེ txh e
+ཕྱེད txh eb
+ཕྱེན txh ee
+ཕྱེམ txh e m
+ཕྱེར txh ew
+ཕྱེས txh eb
+ཕྱོ txh o
+ཕྱོགས txh o k
+ཕྱོང txh o ng
+ཕྱོད txh edb
+ཕྱོར txh ow
+ཕྱོལ txh edw
+ཕྱྭ txh a
+ཕྲ dsh a
+ཕྲག dsh a k
+ཕྲད dsh ecb
+ཕྲན dsh ec
+ཕྲབ dsh a p
+ཕྲལ dsh ecw
+ཕྲས dsh ecb
+ཕྲི dsh i
+ཕྲིག dsh i k
+ཕྲིགས dsh i k
+ཕྲིན dsh ii
+ཕྲིར dsh iw
+ཕྲིལ dsh iw
+ཕྲིས dsh ib
+ཕྲུ dsh u
+ཕྲུག dsh u k
+ཕྲུགས dsh u k
+ཕྲུམ dsh u m
+ཕྲུལ dsh y
+ཕྲུས dsh yb
+ཕྲེང dsh e ng
+ཕྲེད dsh eb
+ཕྲེལ dsh ew
+ཕྲེས dsh eb
+ཕྲོ dsh o
+ཕྲོག dsh o k
+ཕྲོགས dsh o k
+ཕྲོད dsh edb
+ཕྲོབ dsh o p
+ཕྲོབས dsh o p
+ཕྲོམ dsh o m
+ཕྲོལ dsh edw
+ཕྲོས dsh edb
+འཕག ph a k
+འཕགས ph a k
+འཕང ph a ng
+འཕངས ph a ng
+འཕན ph ec
+འཕབ ph a p
+འཕམ ph a m
+འཕར ph aw
+འཕལ ph ecw
+འཕིག ph i k
+འཕིགས ph i k
+འཕིབ ph i p
+འཕིབས ph i p
+འཕིར ph iw
+འཕུག ph u k
+འཕུགས ph u k
+འཕུང ph u ng
+འཕུངས ph u ng
+འཕུད ph yb
+འཕུབ ph u p
+འཕུར ph uw
+འཕུལ ph y
+འཕེན ph ee
+འཕེར ph ew
+འཕེལ ph ew
+འཕོ ph o
+འཕོག ph o k
+འཕོགས ph o k
+འཕོང ph o ng
+འཕོངས ph o ng
+འཕོད ph edb
+འཕོབ ph o p
+འཕོས ph edb
+འཕྱ txh a
+འཕྱག txh a k
+འཕྱགས txh a k
+འཕྱང txh a ng
+འཕྱངས txh a ng
+འཕྱད txh ecb
+འཕྱན txh ec
+འཕྱམ txh a m
+འཕྱར txh aw
+འཕྱས txh ecb
+འཕྱི txh i
+འཕྱིང txh i ng
+འཕྱིངས txh i ng
+འཕྱིད txh ib
+འཕྱིལ txh iw
+འཕྱིས txh ib
+འཕྱུག txh u k
+འཕྱུགས txh u k
+འཕྱུར txh uw
+འཕྱེ txh e
+འཕྱེན txh ee
+འཕྱེས txh eb
+འཕྱོ txh o
+འཕྱོག txh o k
+འཕྱོགས txh o k
+འཕྱོང txh o ng
+འཕྱོངས txh o ng
+འཕྱོན txh ed
+འཕྱོར txh ow
+འཕྱོས txh edb
+འཕྲ dsh a
+འཕྲག dsh a k
+འཕྲང dsh a ng
+འཕྲད dsh ecb
+འཕྲལ dsh ecw
+འཕྲས dsh ecb
+འཕྲི dsh i
+འཕྲིག dsh i k
+འཕྲིགས dsh i k
+འཕྲིང dsh i ng
+འཕྲིན dsh ii
+འཕྲུ dsh u
+འཕྲུག dsh u k
+འཕྲུགས dsh u k
+འཕྲུལ dsh y
+འཕྲེང dsh e ng
+འཕྲེངས dsh e ng
+འཕྲེད dsh eb
+འཕྲེས dsh eb
+འཕྲོ dsh o
+འཕྲོག dsh o k
+འཕྲོགས dsh o k
+འཕྲོད dsh edb
+འཕྲོར dsh ow
+འཕྲོལ dsh edw
+འཕྲོས dsh edb
+བ ph a
+བག ph a k
+བགས ph a k
+བང ph a ng
+བངས ph a ng
+བད ph ecb
+བན ph ec
+བབ ph a p
+བབས ph a p
+བམ ph a m
+བར ph aw
+བལ ph ecw
+བས ph ecb
+བི ph i
+བིག ph i k
+བིང ph i ng
+བིད ph ib
+བིན ph ii
+བིམ ph i m
+བིར ph iw
+བིལ ph iw
+བུ ph u
+བུག ph u k
+བུགས ph u k
+བུང ph u ng
+བུངས ph u ng
+བུད ph yb
+བུན ph yy
+བུབ ph u p
+བུབས ph u p
+བུམ ph u m
+བུར ph uw
+བུལ ph y
+བུས ph yb
+བེ ph e
+བེག ph a k
+བེང ph e ng
+བེད ph eb
+བེན ph ee
+བེམ ph e m
+བེམས ph e m
+བེར ph ew
+བེལ ph ew
+བེས ph eb
+བོ ph o
+བོག ph o k
+བོགས ph o k
+བོང ph o ng
+བོངས ph o ng
+བོད ph edb
+བོན ph ed
+བོབ ph o p
+བོབས ph o p
+བོར ph ow
+བོལ ph edw
+བོས ph edb
+བྱ txh a
+བྱག txh a k
+བྱང txh a ng
+བྱད txh ecb
+བྱན txh ec
+བྱབ txh a p
+བྱབས txh a p
+བྱམ txh a m
+བྱམས txh a m
+བྱར txh aw
+བྱས txh ecb
+བྱི txh i
+བྱིང txh i ng
+བྱིངས txh i ng
+བྱིད txh ib
+བྱིན txh ii
+བྱིབ txh i p
+བྱིབས txh i p
+བྱིལ txh iw
+བྱིས txh ib
+བྱུ txh u
+བྱུག txh u k
+བྱུགས txh u k
+བྱུང txh u ng
+བྱུར txh uw
+བྱུལ txh y
+བྱུས txh yb
+བྱེ txh e
+བྱེད txh eb
+བྱེར txh ew
+བྱེལ txh ew
+བྱེས txh eb
+བྱོ txh o
+བྱོགས txh o k
+བྱོང txh o ng
+བྱོན txh ed
+བྱོབས txh o p
+བྱོལ txh edw
+བྱོས txh edb
+བྲ ds a
+བྲག ds a k
+བྲགས ds a k
+བྲང ds a ng
+བྲད ds ecb
+བྲན ds ec
+བྲབ ds a p
+བྲབས ds a p
+བྲམ ds a m
+བྲལ ds ecw
+བྲི ds i
+བྲིག ds i k
+བྲིང ds i ng
+བྲིད ds ib
+བྲིན ds ii
+བྲིམ ds i m
+བྲིམས ds i m
+བྲིས ds ib
+བྲུ ds u
+བྲུག ds u k
+བྲུངས ds u ng
+བྲུད ds yb
+བྲུན ds yy
+བྲུབ ds u p
+བྲུབས ds u p
+བྲུལ ds y
+བྲུས ds yb
+བྲེ ds e
+བྲེག ds a k
+བྲེགས ds a k
+བྲེང ds e ng
+བྲེད ds eb
+བྲེལ ds ew
+བྲེས ds eb
+བྲོ ds o
+བྲོག ds o k
+བྲོགས ds o k
+བྲོད ds edb
+བྲོན ds ed
+བྲོབ ds o p
+བྲོབས ds o p
+བྲོམ ds o m
+བྲོལ ds edw
+བྲོས ds edb
+བླ l a
+བླག l a k
+བླགས l a k
+བླང l a ng
+བླངས l a ng
+བླད l ecb
+བླན l ec
+བླས l ecb
+བླུ l u
+བླུག l u k
+བླུགས l u k
+བླུད l yb
+བླུན l yy
+བླུས l yb
+བླེམ l e m
+བླེས l eb
+བློ l o
+བློག l o k
+བློགས l o k
+བློང l o ng
+བློད l edb
+བློན l ed
+བློར l ow
+བློས l edb
+དབའ w a
+དབག w a k
+དབགས w a k
+དབང w a ng
+དབད w ecb
+དབན w ec
+དབབ w a p
+དབབས w a p
+དབར w aw
+དབལ w ecw
+དབས w ecb
+དབུ w u
+དབུག w u k
+དབུགས w u k
+དབུང w u ng
+དབུད w yb
+དབུབ w u p
+དབུབས w u p
+དབུར w uw
+དབུལ w y
+དབུས w yb
+དབེན w ee
+དབོ w o
+དབོག w o k
+དབོན w ed
+དབོར w ow
+དབོལ w edw
+དབོས w edb
+དབྱག j a k
+དབྱང j a ng
+དབྱངས j a ng
+དབྱར j aw
+དབྱི j i
+དབྱིག j i k
+དབྱིངས j i ng
+དབྱིན j ii
+དབྱིབ j i p
+དབྱིབས j i p
+དབྱིས j ib
+དབྱུ j u
+དབྱུག j u k
+དབྱུགས j u k
+དབྱུང j u ng
+དབྱུལ j y
+དབྱེ j e
+དབྱེན j ee
+དབྱེར j ew
+དབྱེལ j ew
+དབྱེས j eb
+དབྲ r a
+དབྲག r a k
+དབྲད r ecb
+དབྲབ r a p
+དབྲལ r ecw
+དབྲས r ecb
+དབྲི r i
+དབྲིལ r iw
+དབྲེ r e
+དབྲེས r eb
+དབྲོག r o k
+དབྲོལ r edw
+འབའ p a
+འབག p a k
+འབགས p a k
+འབང p a ng
+འབངས p a ng
+འབད p ecb
+འབན p ec
+འབབ p a p
+འབབས p a p
+འབམ p a m
+འབར p aw
+འབལ p ecw
+འབས p ecb
+འབི p i
+འབིག p i k
+འབིགས p i k
+འབིབ p i p
+འབིབས p i p
+འབུ p u
+འབུག p u k
+འབུགས p u k
+འབུང p u ng
+འབུངས p u ng
+འབུད p yb
+འབུན p yy
+འབུབ p u p
+འབུབས p u p
+འབུམ p u m
+འབུར p uw
+འབུལ p y
+འབུས p yb
+འབེ p e
+འབེག p a k
+འབེན p ee
+འབེབ p e p
+འབེབས p e p
+འབེམ p e m
+འབེར p ew
+འབེལ p ew
+འབོ p o
+འབོག p o k
+འབོགས p o k
+འབོང p o ng
+འབོངས p o ng
+འབོད p edb
+འབོབ p o p
+འབོམ p o m
+འབོར p ow
+འབོལ p edw
+འབོས p edb
+འབྱང tx a ng
+འབྱངས tx a ng
+འབྱམ tx a m
+འབྱམས tx a m
+འབྱར tx aw
+འབྱལ tx ecw
+འབྱི tx i
+འབྱིང tx i ng
+འབྱིངས tx i ng
+འབྱིད tx ib
+འབྱིན tx ii
+འབྱིབ tx i p
+འབྱིལ tx iw
+འབྱུ tx u
+འབྱུག tx u k
+འབྱུང tx u ng
+འབྱུར tx uw
+འབྱེ tx e
+འབྱེད tx eb
+འབྱེན tx ee
+འབྱེར tx ew
+འབྱེས tx eb
+འབྱོ tx o
+འབྱོག tx o k
+འབྱོགས tx o k
+འབྱོང tx o ng
+འབྱོངས tx o ng
+འབྱོན tx ed
+འབྱོར tx ow
+འབྱོལ tx edw
+འབྲ ds a
+འབྲག ds a k
+འབྲང ds a ng
+འབྲངས ds a ng
+འབྲད ds ecb
+འབྲན ds ec
+འབྲབ ds a p
+འབྲམ ds a m
+འབྲལ ds ecw
+འབྲས ds ecb
+འབྲི ds i
+འབྲིང ds i ng
+འབྲིད ds ib
+འབྲིམ ds i m
+འབྲིམས ds i m
+འབྲུ ds u
+འབྲུག ds u k
+འབྲུད ds yb
+འབྲུབ ds u p
+འབྲུབས ds u p
+འབྲུམ ds u m
+འབྲུལ ds y
+འབྲུས ds yb
+འབྲེ ds e
+འབྲེག ds a k
+འབྲེགས ds a k
+འབྲེང ds e ng
+འབྲེངས ds e ng
+འབྲེད ds eb
+འབྲེལ ds ew
+འབྲོ ds o
+འབྲོག ds o k
+འབྲོང ds o ng
+འབྲོངས ds o ng
+འབྲོབ ds o p
+འབྲོམ ds o m
+འབྲོས ds edb
+རྦ p a
+རྦག p a k
+རྦང p a ng
+རྦད p ecb
+རྦབ p a p
+རྦོ p o
+རྦོད p edb
+རྦོས p edb
+ལྦ p a
+ལྦང p a ng
+ལྦལ p ecw
+ལྦུ p u
+ལྦོ p o
+ལྦོས p edb
+སྦ p a
+སྦག p a k
+སྦགས p a k
+སྦང p a ng
+སྦངས p a ng
+སྦན p ec
+སྦབ p a p
+སྦབས p a p
+སྦམ p a m
+སྦམས p a m
+སྦར p aw
+སྦལ p ecw
+སྦས p ecb
+སྦི p i
+སྦིད p ib
+སྦིན p ii
+སྦིབ p i p
+སྦིར p iw
+སྦུ p u
+སྦུག p u k
+སྦུགས p u k
+སྦུང p u ng
+སྦུངས p u ng
+སྦུད p yb
+སྦུན p yy
+སྦུབ p u p
+སྦུབས p u p
+སྦུར p uw
+སྦུས p yb
+སྦེ p e
+སྦེག p a k
+སྦེངས p e ng
+སྦེད p eb
+སྦེན p ee
+སྦེབ p e p
+སྦེབས p e p
+སྦེར p ew
+སྦོ p o
+སྦོག p o k
+སྦོགས p o k
+སྦོང p o ng
+སྦོངས p o ng
+སྦོད p edb
+སྦོན p ed
+སྦོམ p o m
+སྦོམས p o m
+སྦོར p ow
+སྦོལ p edw
+སྦོས p edb
+སྦྱག tx a k
+སྦྱགས tx a k
+སྦྱང tx a ng
+སྦྱངས tx a ng
+སྦྱར tx aw
+སྦྱི tx i
+སྦྱིག tx i k
+སྦྱིགས tx i k
+སྦྱིན tx ii
+སྦྱིབས tx i p
+སྦྱིལ tx iw
+སྦྱོང tx o ng
+སྦྱོངས tx o ng
+སྦྱོད tx edb
+སྦྱོར tx ow
+སྦྲ ds a
+སྦྲག ds a k
+སྦྲགས ds a k
+སྦྲང ds a ng
+སྦྲད ds ecb
+སྦྲན ds ec
+སྦྲབས ds a p
+སྦྲམ ds a m
+སྦྲིད ds ib
+སྦྲིབས ds i p
+སྦྲིས ds ib
+སྦྲུ ds u
+སྦྲུག ds u k
+སྦྲུད ds yb
+སྦྲུན ds yy
+སྦྲུབས ds u p
+སྦྲུམ ds u m
+སྦྲུལ ds y
+སྦྲུས ds yb
+སྦྲེ ds e
+སྦྲེག ds a k
+སྦྲེང ds e ng
+སྦྲེངས ds e ng
+སྦྲེད ds eb
+སྦྲེབས ds e p
+སྦྲེལ ds ew
+སྦྲེས ds eb
+སྦྲོག ds o k
+སྦྲོགས ds o k
+སྦྲོན ds ed
+མ m a
+མག m a k
+མང m a ng
+མད m ecb
+མན m ec
+མམ m a m
+མར m aw
+མལ m ecw
+མས m ecb
+མི m i
+མིག m i k
+མིང m i ng
+མིད m ib
+མིན m ii
+མིར m iw
+མིས m ib
+མུ m u
+མུག m u k
+མུང m u ng
+མུད m yb
+མུན m yy
+མུར m uw
+མུལ m y
+མུས m yb
+མེ m e
+མེད m eb
+མེན m ee
+མེར m ew
+མེལ m ew
+མེས m eb
+མོ m o
+མོག m o k
+མོང m o ng
+མོངས m o ng
+མོད m edb
+མོན m ed
+མོར m ow
+མོལ m edw
+མོས m edb
+མྱག nn a k
+མྱགས nn a k
+མྱང nn a ng
+མྱངས nn a ng
+མྱན nn ec
+མྱི nn i
+མྱིག nn i k
+མྱིང nn i ng
+མྱིད nn ib
+མྱིན nn ii
+མྱུ nn u
+མྱུག nn u k
+མྱུགས nn u k
+མྱུར nn uw
+མྱུལ nn y
+མྱེ nn e
+མྱེད nn eb
+མྱེས nn eb
+མྱོག nn o k
+མྱོགས nn o k
+མྱོང nn o ng
+མྱོངས nn o ng
+མྱོན nn ed
+མྱོས nn edb
+དམའ m a
+དམག m a k
+དམངས m a ng
+དམད m ecb
+དམན m ec
+དམར m aw
+དམས m ecb
+དམིག m i k
+དམིགས m i k
+དམུ m u
+དམུག m u k
+དམུན m yy
+དམུར m uw
+དམུལ m y
+དམུས m yb
+དམེ m e
+དམེའ m e
+དམེར m ew
+དམོད m edb
+དམོན m ed
+དམོར m ow
+དམྱག nn a k
+དམྱལ nn ecw
+དམྱིག nn i k
+དམྱིགས nn i k
+དམྱུག nn u k
+དམྱུགས nn u k
+དམྱེ nn e
+རྨ m a
+རྨག m a k
+རྨང m a ng
+རྨངས m a ng
+རྨད m ecb
+རྨན m ec
+རྨམ m a m
+རྨས m ecb
+རྨི m i
+རྨིག m i k
+རྨིགས m i k
+རྨིས m ib
+རྨུ m u
+རྨུག m u k
+རྨུགས m u k
+རྨུན m yy
+རྨུར m uw
+རྨུས m yb
+རྨེ m e
+རྨེག m a k
+རྨེད m eb
+རྨེན m ee
+རྨེལ m ew
+རྨེས m eb
+རྨོ m o
+རྨོག m o k
+རྨོང m o ng
+རྨོངས m o ng
+རྨོད m edb
+རྨོན m ed
+རྨོར m ow
+རྨོལ m edw
+རྨོས m edb
+རྨྱ nn a
+རྨྱང nn a ng
+རྨྱངས nn a ng
+རྨྱི nn i
+རྨྱེ nn e
+རྨྱོང nn o ng
+རྨྱོངས nn o ng
+སྨ m a
+སྨག m a k
+སྨང m a ng
+སྨད m ecb
+སྨན m ec
+སྨར m aw
+སྨལ m ecw
+སྨས m ecb
+སྨི m i
+སྨིག m i k
+སྨིན m ii
+སྨིར m iw
+སྨུ m u
+སྨུག m u k
+སྨུགས m u k
+སྨུན m yy
+སྨེ m e
+སྨེག m a k
+སྨེང m e ng
+སྨེད m eb
+སྨེན m ee
+སྨེལ m ew
+སྨེས m eb
+སྨོག m o k
+སྨོངས m o ng
+སྨོད m edb
+སྨོན m ed
+སྨོས m edb
+སྨྱག nn a k
+སྨྱགས nn a k
+སྨྱང nn a ng
+སྨྱན nn ec
+སྨྱར nn aw
+སྨྱི nn i
+སྨྱིག nn i k
+སྨྱིན nn ii
+སྨྱུ nn u
+སྨྱུག nn u k
+སྨྱུགས nn u k
+སྨྱུང nn u ng
+སྨྱུངས nn u ng
+སྨྱུན nn yy
+སྨྱུར nn uw
+སྨྱེ nn e
+སྨྱེང nn e ng
+སྨྱེན nn ee
+སྨྱོ nn o
+སྨྱོག nn o k
+སྨྱོང nn o ng
+སྨྱོན nn ed
+སྨྱོས nn edb
+སྨྲ m a
+སྨྲག m a k
+སྨྲང m a ng
+སྨྲས m ecb
+སྨྲིག m i k
+སྨྲེ m e
+སྨྲེག m a k
+སྨྲེང m e ng
+སྨྲོས m edb
+ཙ ts a
+ཙག ts a k
+ཙང ts a ng
+ཙད ts ecb
+ཙན ts ec
+ཙབ ts a p
+ཙབས ts a p
+ཙམ ts a m
+ཙར ts aw
+ཙི ts i
+ཙིག ts i k
+ཙིད ts ib
+ཙིན ts ii
+ཙིམ ts i m
+ཙིར ts iw
+ཙིས ts ib
+ཙུ ts u
+ཙུག ts u k
+ཙུགས ts u k
+ཙུང ts u ng
+ཙུན ts yy
+ཙུབ ts u p
+ཙུམ ts u m
+ཙེ ts e
+ཙེག ts a k
+ཙེན ts ee
+ཙེམ ts e m
+ཙེར ts ew
+ཙེལ ts ew
+ཙོ ts o
+ཙོག ts o k
+ཙོང ts o ng
+ཙོབ ts o p
+ཙོམ ts o m
+ཙོར ts ow
+གཙའ ts a
+གཙག ts a k
+གཙགས ts a k
+གཙང ts a ng
+གཙབ ts a p
+གཙབས ts a p
+གཙི ts i
+གཙིག ts i k
+གཙིགས ts i k
+གཙིར ts iw
+གཙིས ts ib
+གཙུག ts u k
+གཙུགས ts u k
+གཙུབ ts u p
+གཙུབས ts u p
+གཙེ ts e
+གཙེགས ts a k
+གཙེད ts eb
+གཙེར ts ew
+གཙེས ts eb
+གཙོ ts o
+གཙོག ts o k
+གཙོགས ts o k
+གཙོད ts edb
+གཙོབས ts o p
+གཙོར ts ow
+གཙོས ts edb
+བཙའ ts a
+བཙག ts a k
+བཙགས ts a k
+བཙང ts a ng
+བཙངས ts a ng
+བཙད ts ecb
+བཙན ts ec
+བཙབ ts a p
+བཙབས ts a p
+བཙམ ts a m
+བཙམས ts a m
+བཙལ ts ecw
+བཙལད ts ecw
+བཙས ts ecb
+བཙིར ts iw
+བཙུག ts u k
+བཙུགས ts u k
+བཙུད ts yb
+བཙུན ts yy
+བཙུབ ts u p
+བཙུམ ts u m
+བཙུམས ts u m
+བཙེམ ts e m
+བཙེམས ts e m
+བཙེས ts eb
+བཙོ ts o
+བཙོག ts o k
+བཙོགས ts o k
+བཙོང ts o ng
+བཙོངས ts o ng
+བཙོད ts edb
+བཙོན ts ed
+བཙོས ts edb
+རྩ ts a
+རྩག ts a k
+རྩང ts a ng
+རྩངས ts a ng
+རྩད ts ecb
+རྩན ts ec
+རྩབ ts a p
+རྩབས ts a p
+རྩམ ts a m
+རྩར ts aw
+རྩལ ts ecw
+རྩས ts ecb
+རྩི ts i
+རྩིག ts i k
+རྩིགས ts i k
+རྩིང ts i ng
+རྩིད ts ib
+རྩིབ ts i p
+རྩིབས ts i p
+རྩིར ts iw
+རྩིས ts ib
+རྩུབ ts u p
+རྩེ ts e
+རྩེག ts a k
+རྩེགས ts a k
+རྩེང ts e ng
+རྩེངས ts e ng
+རྩེད ts eb
+རྩེན ts ee
+རྩེབ ts e p
+རྩེབས ts e p
+རྩེར ts ew
+རྩེལ ts ew
+རྩེས ts eb
+རྩོག ts o k
+རྩོགས ts o k
+རྩོང ts o ng
+རྩོངས ts o ng
+རྩོད ts edb
+རྩོན ts ed
+རྩོབ ts o p
+རྩོམ ts o m
+རྩོམས ts o m
+རྩོལ ts edw
+ཙྭ ts a
+སྩང ts a ng
+སྩལ ts ecw
+སྩེལ ts ew
+སྩོ ts o
+སྩོགས ts o k
+སྩོང ts o ng
+སྩོལ ts edw
+བརྩག ts a k
+བརྩགས ts a k
+བརྩང ts a ng
+བརྩངས ts a ng
+བརྩད ts ecb
+བརྩན ts ec
+བརྩམ ts a m
+བརྩམས ts a m
+བརྩལ ts ecw
+བརྩས ts ecb
+བརྩི ts i
+བརྩིག ts i k
+བརྩིགས ts i k
+བརྩིང ts i ng
+བརྩིངས ts i ng
+བརྩིས ts ib
+བརྩུ ts u
+བརྩུས ts yb
+བརྩེ ts e
+བརྩེག ts a k
+བརྩེགས ts a k
+བརྩེང ts e ng
+བརྩེངས ts e ng
+བརྩེད ts eb
+བརྩེབ ts e p
+བརྩེས ts eb
+བརྩོག ts o k
+བརྩོགས ts o k
+བརྩོན ts ed
+བསྩགས ts a k
+བསྩངས ts a ng
+བསྩལ ts ecw
+བསྩུ ts u
+ཚ tsh a
+ཚག tsh a k
+ཚགས tsh a k
+ཚང tsh a ng
+ཚངས tsh a ng
+ཚད tsh ecb
+ཚན tsh ec
+ཚབ tsh a p
+ཚབས tsh a p
+ཚམ tsh a m
+ཚམས tsh a m
+ཚར tsh aw
+ཚལ tsh ecw
+ཚས tsh ecb
+ཚི tsh i
+ཚིག tsh i k
+ཚིགས tsh i k
+ཚིང tsh i ng
+ཚིམ tsh i m
+ཚིམས tsh i m
+ཚིར tsh iw
+ཚིལ tsh iw
+ཚིས tsh ib
+ཚུ tsh u
+ཚུག tsh u k
+ཚུགས tsh u k
+ཚུད tsh yb
+ཚུན tsh yy
+ཚུབ tsh u p
+ཚུམ tsh u m
+ཚུམས tsh u m
+ཚུར tsh uw
+ཚུལ tsh y
+ཚུས tsh yb
+ཚེ tsh e
+ཚེག tsh a k
+ཚེགས tsh a k
+ཚེངས tsh e ng
+ཚེད tsh eb
+ཚེན tsh ee
+ཚེབ tsh e p
+ཚེམ tsh e m
+ཚེམས tsh e m
+ཚེར tsh ew
+ཚེས tsh eb
+ཚོ tsh o
+ཚོགས tsh o k
+ཚོང tsh o ng
+ཚོངས tsh o ng
+ཚོད tsh edb
+ཚོན tsh ed
+ཚོབས tsh o p
+ཚོམ tsh o m
+ཚོམས tsh o m
+ཚོར tsh ow
+ཚོལ tsh edw
+ཚོས tsh edb
+ཚྭ tsh a
+མཚའ tsh a
+མཚག tsh a k
+མཚགས tsh a k
+མཚང tsh a ng
+མཚན tsh ec
+མཚམས tsh a m
+མཚར tsh aw
+མཚལ tsh ecw
+མཚུངས tsh u ng
+མཚུན tsh yy
+མཚུར tsh uw
+མཚུལ tsh y
+མཚེ tsh e
+མཚེད tsh eb
+མཚེར tsh ew
+མཚེས tsh eb
+མཚོ tsh o
+མཚོག tsh o k
+མཚོང tsh o ng
+མཚོངས tsh o ng
+མཚོད tsh edb
+མཚོན tsh ed
+མཚོར tsh ow
+མཚོས tsh edb
+འཚའ tsh a
+འཚག tsh a k
+འཚགས tsh a k
+འཚང tsh a ng
+འཚངས tsh a ng
+འཚབ tsh a p
+འཚབས tsh a p
+འཚམ tsh a m
+འཚམས tsh a m
+འཚར tsh aw
+འཚལ tsh ecw
+འཚས tsh ecb
+འཚིག tsh i k
+འཚིགས tsh i k
+འཚིང tsh i ng
+འཚིར tsh iw
+འཚིས tsh ib
+འཚུག tsh u k
+འཚུགས tsh u k
+འཚུད tsh yb
+འཚུབ tsh u p
+འཚུབས tsh u p
+འཚུམ tsh u m
+འཚུམས tsh u m
+འཚུར tsh uw
+འཚུལ tsh y
+འཚུས tsh yb
+འཚེ tsh e
+འཚེག tsh a k
+འཚེང tsh e ng
+འཚེངས tsh e ng
+འཚེད tsh eb
+འཚེམ tsh e m
+འཚེམས tsh e m
+འཚེར tsh ew
+འཚེལ tsh ew
+འཚེས tsh eb
+འཚོ tsh o
+འཚོག tsh o k
+འཚོགས tsh o k
+འཚོང tsh o ng
+འཚོངས tsh o ng
+འཚོད tsh edb
+འཚོབ tsh o p
+འཚོབས tsh o p
+འཚོམས tsh o m
+འཚོར tsh ow
+འཚོལ tsh edw
+འཚོས tsh edb
+ཛ tsh a
+ཛམ tsh a m
+ཛར tsh aw
+ཛལ tsh ecw
+ཛི tsh i
+ཛིག tsh i k
+ཛིར tsh iw
+ཛིས tsh ib
+ཛེ tsh e
+ཛོ tsh o
+ཛོར tsh ow
+མཛའ ts a
+མཛངས ts a ng
+མཛད ts ecb
+མཛར ts aw
+མཛུ ts u
+མཛུག ts u k
+མཛུབ ts u p
+མཛུལ ts y
+མཛེ ts e
+མཛེར ts ew
+མཛེས ts eb
+མཛོ ts o
+མཛོག ts o k
+མཛོད ts edb
+མཛོལ ts edw
+འཛའ ts a
+འཛག ts a k
+འཛགས ts a k
+འཛང ts a ng
+འཛངས ts a ng
+འཛད ts ecb
+འཛན ts ec
+འཛབ ts a p
+འཛབས ts a p
+འཛམ ts a m
+འཛར ts aw
+འཛི ts i
+འཛིག ts i k
+འཛིང ts i ng
+འཛིངས ts i ng
+འཛིད ts ib
+འཛིན ts ii
+འཛིམ ts i m
+འཛིར ts iw
+འཛུག ts u k
+འཛུགས ts u k
+འཛུད ts yb
+འཛུམ ts u m
+འཛུམས ts u m
+འཛུར ts uw
+འཛུལ ts y
+འཛེ ts e
+འཛེག ts a k
+འཛེགས ts a k
+འཛེང ts e ng
+འཛེངས ts e ng
+འཛེད ts eb
+འཛེམ ts e m
+འཛེམས ts e m
+འཛེར ts ew
+འཛེས ts eb
+འཛོག ts o k
+འཛོགས ts o k
+འཛོད ts edb
+འཛོབ ts o p
+འཛོམ ts o m
+འཛོམས ts o m
+འཛོལ ts edw
+རྫ ts a
+རྫག ts a k
+རྫང ts a ng
+རྫད ts ecb
+རྫབ ts a p
+རྫམ ts a m
+རྫས ts ecb
+རྫི ts i
+རྫིག ts i k
+རྫིང ts i ng
+རྫིངས ts i ng
+རྫིར ts iw
+རྫིས ts ib
+རྫུ ts u
+རྫུན ts yy
+རྫུབ ts u p
+རྫུབས ts u p
+རྫུལ ts y
+རྫུས ts yb
+རྫེ ts e
+རྫེམས ts e m
+རྫེས ts eb
+རྫོག ts o k
+རྫོགས ts o k
+རྫོང ts o ng
+རྫོངས ts o ng
+རྫོད ts edb
+རྫོབ ts o p
+རྫོབས ts o p
+བརྫང ts a ng
+བརྫངས ts a ng
+བརྫད ts ecb
+བརྫབས ts a p
+བརྫི ts i
+བརྫིས ts ib
+བརྫུ ts u
+བརྫུན ts yy
+བརྫུས ts yb
+བརྫེ ts e
+བརྫེས ts eb
+བརྫོག ts o k
+བརྫོགས ts o k
+ཝ w a
+ཝང w a ng
+ཝད w ecb
+ཝན w ec
+ཝར w aw
+ཝལ w ecw
+ཝས w ecb
+ཝི w i
+ཝུང w u ng
+ཝུན w yy
+ཝུར w uw
+ཝེ w e
+ཝེན w ee
+ཝེར w ew
+ཝོ w o
+ཝོང w o ng
+ཝོད w edb
+ཝོར w ow
+ཝོལ w edw
+ཞ x a
+ཞག x a k
+ཞགས x a k
+ཞང x a ng
+ཞད x ecb
+ཞན x ec
+ཞབས x a p
+ཞམ x a m
+ཞར x aw
+ཞལ x ecw
+ཞས x ecb
+ཞི x i
+ཞིག x i k
+ཞིང x i ng
+ཞིན x ii
+ཞིབ x i p
+ཞིམ x i m
+ཞིར x iw
+ཞིལ x iw
+ཞུ x u
+ཞུགས x u k
+ཞུང x u ng
+ཞུད x yb
+ཞུན x yy
+ཞུབ x u p
+ཞུམ x u m
+ཞུམས x u m
+ཞུར x uw
+ཞུལ x y
+ཞུས x yb
+ཞེ x e
+ཞེང x e ng
+ཞེད x eb
+ཞེན x ee
+ཞེར x ew
+ཞེལ x ew
+ཞེས x eb
+ཞོ x o
+ཞོག x o k
+ཞོགས x o k
+ཞོང x o ng
+ཞོད x edb
+ཞོན x ed
+ཞོམ x o m
+ཞོར x ow
+ཞོལ x edw
+ཞོས x edb
+ཞྭ x a
+གཞའ x a
+གཞག x a k
+གཞགས x a k
+གཞང x a ng
+གཞད x ecb
+གཞན x ec
+གཞབ x a p
+གཞབས x a p
+གཞམ x a m
+གཞམས x a m
+གཞར x aw
+གཞལ x ecw
+གཞས x ecb
+གཞི x i
+གཞིག x i k
+གཞིགས x i k
+གཞིབ x i p
+གཞིབས x i p
+གཞིར x iw
+གཞིལ x iw
+གཞིས x ib
+གཞུ x u
+གཞུག x u k
+གཞུང x u ng
+གཞུངས x u ng
+གཞུན x yy
+གཞུམ x u m
+གཞུར x uw
+གཞུས x yb
+གཞེ x e
+གཞེན x ee
+གཞེར x ew
+གཞེས x eb
+གཞོག x o k
+གཞོགས x o k
+གཞོང x o ng
+གཞོངས x o ng
+གཞོན x ed
+གཞོབ x o p
+གཞོབས x o p
+གཞོམ x o m
+གཞོར x ow
+གཞོལ x edw
+གཞོས x edb
+བཞའ x a
+བཞག x a k
+བཞགས x a k
+བཞངས x a ng
+བཞད x ecb
+བཞབ x a p
+བཞབས x a p
+བཞམ x a m
+བཞམས x a m
+བཞར x aw
+བཞི x i
+བཞིན x ii
+བཞིབ x i p
+བཞིབས x i p
+བཞིར x iw
+བཞིས x ib
+བཞུ x u
+བཞུགས x u k
+བཞུད x yb
+བཞུན x yy
+བཞུམས x u m
+བཞུར x uw
+བཞུས x yb
+བཞེང x e ng
+བཞེངས x e ng
+བཞེད x eb
+བཞེན x ee
+བཞེར x ew
+བཞེས x eb
+བཞོ x o
+བཞོག x o k
+བཞོགས x o k
+བཞོངས x o ng
+བཞོད x edb
+བཞོན x ed
+བཞོབ x o p
+བཞོར x ow
+བཞོལ x edw
+བཞོས x edb
+ཟ s a
+ཟག s a k
+ཟགས s a k
+ཟང s a ng
+ཟངས s a ng
+ཟད s ecb
+ཟན s ec
+ཟབ s a p
+ཟབས s a p
+ཟམ s a m
+ཟར s aw
+ཟལ s ecw
+ཟས s ecb
+ཟི s i
+ཟིག s i k
+ཟིང s i ng
+ཟིངས s i ng
+ཟིན s ii
+ཟིམ s i m
+ཟིར s iw
+ཟིལ s iw
+ཟིས s ib
+ཟུ s u
+ཟུག s u k
+ཟུགས s u k
+ཟུང s u ng
+ཟུངས s u ng
+ཟུད s yb
+ཟུན s yy
+ཟུབ s u p
+ཟུམ s u m
+ཟུར s uw
+ཟུལ s y
+ཟུས s yb
+ཟེ s e
+ཟེག s a k
+ཟེགས s a k
+ཟེང s e ng
+ཟེད s eb
+ཟེམ s e m
+ཟེར s ew
+ཟེལ s ew
+ཟོ s o
+ཟོག s o k
+ཟོང s o ng
+ཟོན s ed
+ཟོབ s o p
+ཟོམ s o m
+ཟོར s ow
+ཟོལ s edw
+ཟོས s edb
+ཟྭ s a
+ཟླ t a
+ཟླག t a k
+ཟླགས t a k
+ཟླད t ecb
+ཟླམ t a m
+ཟླར t aw
+ཟླས t ecb
+ཟླུག t u k
+ཟླུགས t u k
+ཟླུམ t u m
+ཟླུམས t u m
+ཟློ t o
+ཟློག t o k
+ཟློགས t o k
+ཟློས t edb
+གཟའ s a
+གཟག s a k
+གཟགས s a k
+གཟང s a ng
+གཟངས s a ng
+གཟད s ecb
+གཟན s ec
+གཟབ s a p
+གཟབས s a p
+གཟར s aw
+གཟལ s ecw
+གཟས s ecb
+གཟི s i
+གཟིག s i k
+གཟིགས s i k
+གཟིང s i ng
+གཟིངས s i ng
+གཟིམ s i m
+གཟིམས s i m
+གཟིར s iw
+གཟིལ s iw
+གཟུ s u
+གཟུག s u k
+གཟུགས s u k
+གཟུང s u ng
+གཟུངས s u ng
+གཟུད s yb
+གཟུམ s u m
+གཟུར s uw
+གཟུས s yb
+གཟེ s e
+གཟེག s a k
+གཟེགས s a k
+གཟེང s e ng
+གཟེངས s e ng
+གཟེད s eb
+གཟེན s ee
+གཟེབ s e p
+གཟེམ s e m
+གཟེར s ew
+གཟེས s eb
+གཟོ s o
+གཟོགས s o k
+གཟོང s o ng
+གཟོད s edb
+གཟོན s ed
+གཟོབ s o p
+གཟོབས s o p
+གཟོལ s edw
+གཟོས s edb
+བཟའ s a
+བཟང s a ng
+བཟངས s a ng
+བཟད s ecb
+བཟན s ec
+བཟབ s a p
+བཟབས s a p
+བཟར s aw
+བཟས s ecb
+བཟི s i
+བཟིད s ib
+བཟིན s ii
+བཟུང s u ng
+བཟུད s yb
+བཟུར s uw
+བཟེ s e
+བཟེག s a k
+བཟེད s eb
+བཟོ s o
+བཟོད s edb
+བཟོས s edb
+བཟླ t a
+བཟླག t a k
+བཟླགས t a k
+བཟླས t ecb
+བཟླུག t u k
+བཟླུགས t u k
+བཟླུམ t u m
+བཟླུམས t u m
+བཟློ t o
+བཟློག t o k
+བཟློགས t o k
+བཟློས t edb
+འ ab a
+འང ab a ng
+འན ab ec
+འམ ab a m
+འར ab aw
+འལ ab ecw
+འས ab ecb
+འི ab i
+འིས ab ib
+འུ ab u
+འུག ab u k
+འུང ab u ng
+འུད ab yb
+འུན ab yy
+འུབ ab u p
+འུབས ab u p
+འུར ab uw
+འུལ ab y
+འེ ab e
+འེབ ab e p
+འོ ab o
+འོག ab o k
+འོང ab o ng
+འོངས ab o ng
+འོད ab edb
+འོན ab ed
+འོབ ab o p
+འོབས ab o p
+འོམ ab o m
+འོར ab ow
+འོལ ab edw
+འོས ab edb
+ཡ j a
+ཡག j a k
+ཡགས j a k
+ཡང j a ng
+ཡངས j a ng
+ཡད j ecb
+ཡན j ec
+ཡབ j a p
+ཡམ j a m
+ཡམས j a m
+ཡར j aw
+ཡལ j ecw
+ཡས j ecb
+ཡི j i
+ཡིག j i k
+ཡིང j i ng
+ཡིད j ib
+ཡིན j ii
+ཡིབ j i p
+ཡིབས j i p
+ཡིར j iw
+ཡིས j ib
+ཡུ j u
+ཡུག j u k
+ཡུགས j u k
+ཡུང j u ng
+ཡུངས j u ng
+ཡུད j yb
+ཡུན j yy
+ཡུམ j u m
+ཡུར j uw
+ཡུལ j y
+ཡུས j yb
+ཡེ j e
+ཡེག j a k
+ཡེགས j a k
+ཡེང j e ng
+ཡེངས j e ng
+ཡེད j eb
+ཡེན j ee
+ཡེར j ew
+ཡེལ j ew
+ཡོ j o
+ཡོག j o k
+ཡོགས j o k
+ཡོང j o ng
+ཡོངས j o ng
+ཡོད j edb
+ཡོན j ed
+ཡོབ j o p
+ཡོམ j o m
+ཡོར j ow
+ཡོལ j edw
+ཡོས j edb
+གཡའ j a
+གཡག j a k
+གཡང j a ng
+གཡངས j a ng
+གཡན j ec
+གཡབ j a p
+གཡབས j a p
+གཡམ j a m
+གཡམས j a m
+གཡར j aw
+གཡལ j ecw
+གཡས j ecb
+གཡི j i
+གཡིག j i k
+གཡིགས j i k
+གཡིས j ib
+གཡུ j u
+གཡུག j u k
+གཡུགས j u k
+གཡུང j u ng
+གཡུབ j u p
+གཡུར j uw
+གཡུལ j y
+གཡེ j e
+གཡེགས j a k
+གཡེང j e ng
+གཡེངས j e ng
+གཡེན j ee
+གཡེམ j e m
+གཡེར j ew
+གཡེལ j ew
+གཡོ j o
+གཡོག j o k
+གཡོགས j o k
+གཡོད j edb
+གཡོན j ed
+གཡོབ j o p
+གཡོབས j o p
+གཡོམ j o m
+གཡོར j ow
+གཡོལ j edw
+གཡོས j edb
+ར r a
+རག r a k
+རགས r a k
+རང r a ng
+རངས r a ng
+རད r ecb
+རན r ec
+རབ r a p
+རབས r a p
+རམ r a m
+རམས r a m
+རལ r ecw
+རས r ecb
+རི r i
+རིག r i k
+རིགས r i k
+རིང r i ng
+རིངས r i ng
+རིད r ib
+རིན r ii
+རིབ r i p
+རིམ r i m
+རིམས r i m
+རིར r iw
+རིལ r iw
+རིས r ib
+རུ r u
+རུག r u k
+རུགས r u k
+རུང r u ng
+རུངས r u ng
+རུད r yb
+རུན r yy
+རུབ r u p
+རུབས r u p
+རུམ r u m
+རུལ r y
+རུས r yb
+རེ r e
+རེག r a k
+རེགས r a k
+རེང r e ng
+རེངས r e ng
+རེད r eb
+རེན r ee
+རེབ r e p
+རེམ r e m
+རེམས r e m
+རེར r ew
+རེས r eb
+རོ r o
+རོག r o k
+རོགས r o k
+རོང r o ng
+རོད r edb
+རོན r ed
+རོབ r o p
+རོམ r o m
+རོལ r edw
+རོས r edb
+རྭ r a
+རླ l a
+རླག l a k
+རླགས l a k
+རླངས l a ng
+རླན l ec
+རླབས l a p
+རླམ l a m
+རླམས l a m
+རླིག l i k
+རླིང l i ng
+རླིངས l i ng
+རླིད l ib
+རླིབས l i p
+རླུག l u k
+རླུགས l u k
+རླུང l u ng
+རླུབས l u p
+རླུས l yb
+རློ l o
+རློག l o k
+རློགས l o k
+རློང l o ng
+རློངས l o ng
+རློན l ed
+རློབ l o p
+རློབས l o p
+རློམ l o m
+རློམས l o m
+རློས l edb
+བརླ l a
+བརླག l a k
+བརླགས l a k
+བརླང l a ng
+བརླངས l a ng
+བརླན l ec
+བརླབ l a p
+བརླབས l a p
+བརླམ l a m
+བརླམས l a m
+བརླིང l i ng
+བརླིངས l i ng
+བརླིབས l i p
+བརླུག l u k
+བརླུགས l u k
+བརློང l o ng
+བརློངས l o ng
+ལ l a
+ལག l a k
+ལགས l a k
+ལང l a ng
+ལངས l a ng
+ལད l ecb
+ལན l ec
+ལབ l a p
+ལབས l a p
+ལམ l a m
+ལམས l a m
+ལར l aw
+ལས l ecb
+ལི l i
+ལིག l i k
+ལིང l i ng
+ལིངས l i ng
+ལིན l ii
+ལིབ l i p
+ལིམ l i m
+ལིར l iw
+ལིས l ib
+ལུ l u
+ལུག l u k
+ལུགས l u k
+ལུང l u ng
+ལུད l yb
+ལུན l yy
+ལུབ l u p
+ལུམ l u m
+ལུམས l u m
+ལུར l uw
+ལུས l yb
+ལེ l e
+ལེགས l a k
+ལེང l e ng
+ལེན l ee
+ལེབ l e p
+ལེམ l e m
+ལེར l ew
+ལོ l o
+ལོག l o k
+ལོགས l o k
+ལོང l o ng
+ལོངས l o ng
+ལོད l edb
+ལོན l ed
+ལོབ l o p
+ལོབས l o p
+ལོར l ow
+ལོས l edb
+ལྭ l a
+ལྭོ l o
+ཤ x a
+ཤག x a k
+ཤགས x a k
+ཤང x a ng
+ཤངས x a ng
+ཤད x ecb
+ཤན x ec
+ཤབ x a p
+ཤབས x a p
+ཤམ x a m
+ཤར x aw
+ཤལ x ecw
+ཤས x ecb
+ཤི x i
+ཤིག x i k
+ཤིགས x i k
+ཤིང x i ng
+ཤིད x ib
+ཤིན x ii
+ཤིབ x i p
+ཤིབས x i p
+ཤིམ x i m
+ཤིར x iw
+ཤིལ x iw
+ཤིས x ib
+ཤུ x u
+ཤུག x u k
+ཤུགས x u k
+ཤུང x u ng
+ཤུངས x u ng
+ཤུད x yb
+ཤུབ x u p
+ཤུབས x u p
+ཤུམ x u m
+ཤུམས x u m
+ཤུར x uw
+ཤུལ x y
+ཤུས x yb
+ཤེ x e
+ཤེད x eb
+ཤེན x ee
+ཤེར x ew
+ཤེལ x ew
+ཤེས x eb
+ཤོ x o
+ཤོག x o k
+ཤོགས x o k
+ཤོང x o ng
+ཤོངས x o ng
+ཤོད x edb
+ཤོན x ed
+ཤོབ x o p
+ཤོབས x o p
+ཤོམ x o m
+ཤོམས x o m
+ཤོར x ow
+ཤོལ x edw
+ཤོས x edb
+ཤྭ x a
+གཤའ x a
+གཤག x a k
+གཤགས x a k
+གཤང x a ng
+གཤད x ecb
+གཤན x ec
+གཤམ x a m
+གཤར x aw
+གཤལ x ecw
+གཤས x ecb
+གཤིག x i k
+གཤིན x ii
+གཤིབ x i p
+གཤིབས x i p
+གཤིམ x i m
+གཤིས x ib
+གཤུ x u
+གཤུང x u ng
+གཤུད x yb
+གཤུམ x u m
+གཤུར x uw
+གཤེ x e
+གཤེག x a k
+གཤེགས x a k
+གཤེད x eb
+གཤེན x ee
+གཤེར x ew
+གཤེས x eb
+གཤོ x o
+གཤོག x o k
+གཤོགས x o k
+གཤོང x o ng
+གཤོངས x o ng
+གཤོད x edb
+གཤོབ x o p
+གཤོམ x o m
+གཤོམས x o m
+གཤོར x ow
+གཤོལ x edw
+གཤོས x edb
+བཤའ x a
+བཤག x a k
+བཤགས x a k
+བཤང x a ng
+བཤངས x a ng
+བཤད x ecb
+བཤན x ec
+བཤམ x a m
+བཤམས x a m
+བཤར x aw
+བཤལ x ecw
+བཤས x ecb
+བཤིག x i k
+བཤིགས x i k
+བཤིབ x i p
+བཤིབས x i p
+བཤུ x u
+བཤུག x u k
+བཤུགས x u k
+བཤུང x u ng
+བཤུངས x u ng
+བཤུད x yb
+བཤུབ x u p
+བཤུབས x u p
+བཤུམ x u m
+བཤུམས x u m
+བཤུར x uw
+བཤུལ x y
+བཤུས x yb
+བཤེད x eb
+བཤེར x ew
+བཤེས x eb
+བཤོ x o
+བཤོགས x o k
+བཤོངས x o ng
+བཤོད x edb
+བཤོར x ow
+བཤོལ x edw
+བཤོས x edb
+ས s a
+སག s a k
+སང s a ng
+སངས s a ng
+སད s ecb
+སབ s a p
+སམ s a m
+སར s aw
+སལ s ecw
+སས s ecb
+སི s i
+སིག s i k
+སིགས s i k
+སིང s i ng
+སིངས s i ng
+སིད s ib
+སིན s ii
+སིབ s i p
+སིམ s i m
+སིམས s i m
+སིར s iw
+སིལ s iw
+སུ s u
+སུག s u k
+སུང s u ng
+སུངས s u ng
+སུད s yb
+སུན s yy
+སུབ s u p
+སུབས s u p
+སུམ s u m
+སུམས s u m
+སུར s uw
+སུལ s y
+སུས s yb
+སེ s e
+སེག s a k
+སེང s e ng
+སེངས s e ng
+སེད s eb
+སེན s ee
+སེབ s e p
+སེམས s e m
+སེར s ew
+སེལ s ew
+སོ s o
+སོག s o k
+སོགས s o k
+སོང s o ng
+སོངས s o ng
+སོད s edb
+སོན s ed
+སོབ s o p
+སོབས s o p
+སོམ s o m
+སོམས s o m
+སོར s ow
+སོལ s edw
+སོས s edb
+སྲ s a
+སྲག s a k
+སྲང s a ng
+སྲད s ecb
+སྲན s ec
+སྲབ s a p
+སྲམ s a m
+སྲལ s ecw
+སྲས s ecb
+སྲི s i
+སྲིང s i ng
+སྲིངས s i ng
+སྲིད s ib
+སྲིན s ii
+སྲིབ s i p
+སྲིབས s i p
+སྲིལ s iw
+སྲིས s ib
+སྲུ s u
+སྲུག s u k
+སྲུང s u ng
+སྲུངས s u ng
+སྲུད s yb
+སྲུན s yy
+སྲུབ s u p
+སྲུབས s u p
+སྲུལ s y
+སྲུས s yb
+སྲེ s e
+སྲེག s a k
+སྲེགས s a k
+སྲེད s eb
+སྲེལ s ew
+སྲེས s eb
+སྲོ s o
+སྲོག s o k
+སྲོང s o ng
+སྲོངས s o ng
+སྲོད s edb
+སྲོན s ed
+སྲོབ s o p
+སྲོབས s o p
+སྲོལ s edw
+སྲོས s edb
+སླ l a
+སླག l a k
+སླགས l a k
+སླང l a ng
+སླངས l a ng
+སླད l ecb
+སླན l ec
+སླབ l a p
+སླབས l a p
+སླམ l a m
+སླར l aw
+སླས l ecb
+སླི l i
+སླུ l u
+སླུག l u k
+སླུས l yb
+སླེ l e
+སླེད l eb
+སླེན l ee
+སླེབ l e p
+སླེབས l e p
+སླེལ l ew
+སླེས l eb
+སློ l o
+སློག l o k
+སློགས l o k
+སློང l o ng
+སློངས l o ng
+སློད l edb
+སློན l ed
+སློབ l o p
+སློབས l o p
+སློམ l o m
+སློས l edb
+གསའ s a
+གསག s a k
+གསགས s a k
+གསང s a ng
+གསངས s a ng
+གསད s ecb
+གསན s ec
+གསབ s a p
+གསར s aw
+གསལ s ecw
+གསས s ecb
+གསིག s i k
+གསིགས s i k
+གསིང s i ng
+གསིངས s i ng
+གསིར s iw
+གསིལ s iw
+གསུ s u
+གསུག s u k
+གསུང s u ng
+གསུངས s u ng
+གསུད s yb
+གསུབ s u p
+གསུབས s u p
+གསུམ s u m
+གསུར s uw
+གསུས s yb
+གསེ s e
+གསེག s a k
+གསེགས s a k
+གསེང s e ng
+གསེད s eb
+གསེན s ee
+གསེབ s e p
+གསེར s ew
+གསེས s eb
+གསོ s o
+གསོག s o k
+གསོགས s o k
+གསོང s o ng
+གསོངས s o ng
+གསོད s edb
+གསོན s ed
+གསོབ s o p
+གསོམ s o m
+གསོར s ow
+གསོལ s edw
+གསོས s edb
+བསའ s a
+བསག s a k
+བསགས s a k
+བསང s a ng
+བསངས s a ng
+བསད s ecb
+བསབ s a p
+བསབས s a p
+བསམ s a m
+བསམས s a m
+བསར s aw
+བསལ s ecw
+བསི s i
+བསིག s i k
+བསིགས s i k
+བསིང s i ng
+བསིངས s i ng
+བསིར s iw
+བསིལ s iw
+བསིས s ib
+བསུ s u
+བསུག s u k
+བསུང s u ng
+བསུངས s u ng
+བསུན s yy
+བསུབ s u p
+བསུབས s u p
+བསུམ s u m
+བསུམས s u m
+བསུར s uw
+བསུས s yb
+བསེ s e
+བསེག s a k
+བསེགས s a k
+བསེང s e ng
+བསེད s eb
+བསེན s ee
+བསེར s ew
+བསེལ s ew
+བསོ s o
+བསོག s o k
+བསོགས s o k
+བསོང s o ng
+བསོངས s o ng
+བསོད s edb
+བསོན s ed
+བསོར s ow
+བསོལ s edw
+བསོས s edb
+བསྭོ s o
+བསྲ s a
+བསྲང s a ng
+བསྲངས s a ng
+བསྲད s ecb
+བསྲན s ec
+བསྲབ s a p
+བསྲབས s a p
+བསྲལ s ecw
+བསྲི s i
+བསྲིང s i ng
+བསྲིངས s i ng
+བསྲིབ s i p
+བསྲིབས s i p
+བསྲིས s ib
+བསྲུང s u ng
+བསྲུངས s u ng
+བསྲུན s yy
+བསྲུབ s u p
+བསྲུབས s u p
+བསྲུལ s y
+བསྲེ s e
+བསྲེག s a k
+བསྲེགས s a k
+བསྲེད s eb
+བསྲེལ s ew
+བསྲེས s eb
+བསྲོ s o
+བསྲོགས s o k
+བསྲོབ s o p
+བསྲོས s edb
+བསླ l a
+བསླག l a k
+བསླགས l a k
+བསླང l a ng
+བསླངས l a ng
+བསླད l ecb
+བསླན l ec
+བསླབ l a p
+བསླབས l a p
+བསླས l ecb
+བསླུ l u
+བསླུག l u k
+བསླུགས l u k
+བསླུས l yb
+བསླེ l e
+བསླེབ l e p
+བསླེབས l e p
+བསླེས l eb
+བསློག l o k
+བསློགས l o k
+ཧ h a
+ཧག h a k
+ཧགས h a k
+ཧང h a ng
+ཧད h ecb
+ཧན h ec
+ཧབ h a p
+ཧམ h a m
+ཧར h aw
+ཧལ h ecw
+ཧས h ecb
+ཧི h i
+ཧིག h i k
+ཧིན h ii
+ཧིར h iw
+ཧུ h u
+ཧུག h u k
+ཧུགས h u k
+ཧུང h u ng
+ཧུད h yb
+ཧུབ h u p
+ཧུམ h u m
+ཧུར h uw
+ཧུས h yb
+ཧེ h e
+ཧེད h eb
+ཧེན h ee
+ཧེབ h e p
+ཧེར h ew
+ཧེལ h ew
+ཧོ h o
+ཧོག h o k
+ཧོང h o ng
+ཧོད h edb
+ཧོན h ed
+ཧོབ h o p
+ཧོམ h o m
+ཧོར h ow
+ཧོལ h edw
+ཧོས h edb
+ཧྭ h a
+ཧྭག h a k
+ཧྭགས h a k
+ཧྭང h a ng
+ཧྲག ss a k
+ཧྲགས ss a k
+ཧྲང ss a ng
+ཧྲངས ss a ng
+ཧྲད ss ecb
+ཧྲན ss ec
+ཧྲབ ss a p
+ཧྲམ ss a m
+ཧྲལ ss ecw
+ཧྲི ss i
+ཧྲིག ss i k
+ཧྲིངས ss i ng
+ཧྲིད ss ib
+ཧྲིན ss ii
+ཧྲིབ ss i p
+ཧྲིལ ss iw
+ཧྲུག ss u k
+ཧྲུད ss yb
+ཧྲུབ ss u p
+ཧྲུབས ss u p
+ཧྲུམ ss u m
+ཧྲུལ ss y
+ཧྲེ ss e
+ཧྲེང ss e ng
+ཧྲེངས ss e ng
+ཧྲེན ss ee
+ཧྲེམ ss e m
+ཧྲོག ss o k
+ཧྲོབ ss o p
+ཧྲོམ ss o m
+ཧྲོལ ss edw
+ལྷ lh a
+ལྷག lh a k
+ལྷགས lh a k
+ལྷང lh a ng
+ལྷངས lh a ng
+ལྷད lh ecb
+ལྷན lh ec n
+ལྷབ lh a p
+ལྷབས lh a p
+ལྷམ lh a m
+ལྷམས lh a m
+ལྷར lh a
+ལྷས lh ecb
+ལྷིང lh i ng
+ལྷུ lh u
+ལྷུག lh u k
+ལྷུགས lh u k
+ལྷུང lh u ng
+ལྷུངས lh u ng
+ལྷུད lh yb
+ལྷུན lh y n
+ལྷུབ lh u p
+ལྷུམ lh u m
+ལྷུམས lh u m
+ལྷུར lh u
+ལྷེ lh e
+ལྷེན lh e n
+ལྷེབ lh e p
+ལྷེབས lh e p
+ལྷེམ lh e m
+ལྷེས lh eb
+ལྷོ lh o
+ལྷོག lh o k
+ལྷོགས lh o k
+ལྷོང lh o ng
+ལྷོངས lh o ng
+ལྷོད lh edb
+ལྷོན lh ed n
+ལྷོའི lh edw
+ལྷོར lh o
+ཨ a
+ཨག a k
+ཨང a ng
+ཨན ec
+ཨབ a p
+ཨམ a m
+ཨར aw
+ཨལ ecw
+ཨས ecb
+ཨི i
+ཨིག i k
+ཨིགས i k
+ཨིད ib
+ཨིན ii
+ཨིམ i m
+ཨིས ib
+ཨུ u
+ཨུག u k
+ཨུང u ng
+ཨུད yb
+ཨུར uw
+ཨེ e
+ཨེན ee
+ཨེབ e p
+ཨེམ e m
+ཨེར ew
+ཨོ o
+ཨོག o k
+ཨོང o ng
+ཨོན ed
+ཨོབ o p
+ཨོམ o m
+ཨོར ow
+ཨོལ edw
+པའི p a i
+བའི ph a i
+ཀྲུའུ ds uw
+རྒྱུའི c u i
+ལོའི l o i
+ཧྲུའུ ss uw
+མའི m a i
+དེའི th e i
+པོའི p o i
+ཆེའི txh e i
+གོའི kh ed i
+མཚེའུ tsh e u
+གཞིའི x iw
+འདུའི t y
+སའི s a i
+ཚོའི tsh o i
+བུའི ph u i
+པུའུ p uw
+གསོའི s o i
+སྤྱིའི tx iw
+མོའི m o i
+ཆུའི txh u i
+ཧུའུ h uw
+རྩའི ts a i
+སྒོའི k o i
+ཐའོ th a o
+ཀའི k a i
+མིའི m iw
+རེའི r e i
+བོའི ph o i
+ཞུའི x u i
+པུའི p u i
+གྲྭའི dsh a i
+ལའི l a i
+པའོ p a o
+ཝུའུ w uw
+འདིའི t iw
+མཐོའི th ed i
+རའི r a i
+གའི kh i
+ཡའི j a i
+མཚོའི tsh ed i
+ལྔའི ng a i
+ཧའོ h a o
+ཆའི txh a i
+དབྱིང j i ng
+ཧའེ h a e
+ལྟའི t a i
+སིའི s iw
+ཁའི kh a i
+རིའི r iw
+ལིའི l iw
+བརྩེའི ts e i
+སུའུ s uw
+ཀྲོའུ ds o u
+ལིའུ l i u
+ཙུའུ ts uw
+སོའི s o i
+སྡེའི t e i
+མུའུ m uw
+སྣའི n a i
+ཞིས x ib
+ཏུའུ t uw
+ཐའེ th a e
+ཀྲའུ ds a u
+ཏུན t u
+བཞིའི x iw
+བློའི l o i
+སྔའི ng a i
+ཞའོ x a o
+ཀྲའོ ds a o
+བརྗེའི tx e i
+གཡུས j u ab
+སིས s ib
+དྲོའི ds o i
+བདེའི t e i
+རྒུས k u ab
+བཟོའི s o i
+བསྡུའི t u i
+ཨའོ a o
+སུའི s u i
+བཅུའི tx u i
+ཁྲིའི dsh iw
+འཁྲིའི dsh iw
+རྩེའི ts e i
+ཕྲའི dsh a i
+ཁྲུའི dsh u i
+འཚེའི tsh e i
+འདྲིའི ds iw
+ལའེ l a e
+བྱའི txh a i
+པོའོ p ow
+གཙོའི ts o i
+བརྡས t a ab
+ཧུའེ h u e
+ཇལ txh aw
+སྤྲོའི ds o i
+མཐའི th a i
+ཞིའི x iw
+རར r aw
+ཐོའི th o i
+ཝུ w u
+ཐིན th i
+ཡཱ a
+ཅུའུ tx uw
+ཨུའི u i
+མཱ m a
+ལཱ l a
+རྩྭ ts a
+པཱ p a
+ནཱ n a
+ཕཱ ph a
+ཅཱ tx a
+འདྲའི ds a i
+ཧཱ h a
+ཁཱ kh a
+བསྐོའི k o i
+ཧྥ f a
+བུའུ ph uw
+ཁྲའོ dsh a o
+ཁྲིན dsh i
+ཏཱ t a
+ཧྥེ f e
+ཐཱ th a
+རྒྱའི c a i
+ངའི ng a i
+ལའང l a i ng
+ཅོར txh o
+མའོ m a o
+འགྲོའི ds o i
+སྤྲེའུ ds e u
+ཀུའུ k uw
+སཱ s a
+ལུའུ l uw
+ཁོའི kh o i
+མྱ nn a
+སྒེའུ k e u
+ཏྲོག ds ed k
+ཐིའི th iw
+ཤུན x u
+ཀྲ ds a
+བྷང kh ec ng
+མཁའི kh ec i
+སུའེ s u e
+གྲུའི dsh u i
+ཅུའི tx u i
+ཐུའུ th uw
+པཎ p a
+ཟའི s a i
+དྲོར ds o
+འགའི k a i
+རོའི r o i
+ནའང n a
+ཟིའི s iw
+འདྲེའི ds e i
+རྗེའི tx e i
+ཀུ k u
+ཇིའི txh iw
+ཡཱའི a i
+ཅིབ tx i p
+ཧྲ ss a
+ཀིའི k iw
+ཅིའི tx iw
+དཔེས p e m
+པབ p a p
+བརྒྱའི c a i
+བསྐྱེལ c e l
+ཟླའི t a i
+ཡའོ a o
+ལེའུ l e u
+ལོམ l o m
+སྤུའི p u i
+དྲེའུ ds e u
+བྱེའུ txh e u
+མཁོའི kh o i
+མེའི m e i
+འགེབ k e p
+འགོའི k o i
+འབྲིའི ds iw
+རྟར t a l
+ལུའེ l u e
+ལྕིའི tx iw
+སྒྲའི ds a i
+སྣེའི n e i
+ནེའི n e i
+ཚུའེ tsh u e
+ཚེའི tsh e i
+རྡོའི t o i
+སེའི s e i
+ཧྲིའི ss iw
+ཧྲེར ss e l
+ཨུས u m
+ཁྲུའུ dsh uw
+གྷ k a
+ཆའོ txh a o
+ཆིའི txh iw
+ཏའི t a i
+ཏའོ t a o
+ཏུས t u m
+ལེའི l ew
+ཀྲུན ds u
+གེའི kh e i
+དགུའི k u i
+ནུའི n u i
+འཇིན tx i
+འདྲར ds a l
+འབུའི p u i
+སའེ s a e
+ཁེར kh e l
+ཁྲའི dsh a i
+ཏུའི t u i
+དཀའི k a i
+དགའི k a i
+ཕྱིའི txh iw
+བཅའི tx a i
+བརྡའི t a i
+བྲོའི ds o i
+ཙུའེ ts u e
+ཞཱ x a
+འགྲུམ ds u m
+རྟེའུ t e u
+ལའོ l a o
+ལིའོ l i o
+ལྔར ng a
+ལྟན t a
+ལྷལ l a
+ཧྲུན ss u
+ཧྲོ ss o
+ཀལ k a
+ཀིས k i m
+ཁུའུ kh uw
+ངོའི ng o i
+ཏྰ t a
+དགྲའི ds a i
+ཕིབ ph i
+ཞུའུ x uw
+ལུའོ l u o
+ཤུའི x u i
+སྐུའི k u i
+སྣན n a
+སློར l o
+ཧྲོན ss o
+ཁའེ kh a e
+ཁྲིར dsh i
+ཇོའི txh o i
+དཔེའི p e i
+དེའོ th e o
+དྲའི ds a i
+པའུ p a u
+ཕུའུ ph uw
+པའམ p a m
+བའམ ph a m
+ཟེའུ s e u
+པའང p a ng
+རྨིན m i
+དུའང t i n
+ཉེའི nn e i
+བརྗེར tx ew
+གུའི k u i
+རེའུ r e u
+དེའང th e ng
+གྲྭས dsh a ab
+མགོའི k ed i
+བའང ph a ng
+ནའི n i
+ཧྥུའུ f uw
+ཧྥུ f u
+ཧྥུན f u n
+ཧྥིན f i n
+ཧྥོ f o
+སྒྲེའུ ds e u
+པིའོ p i o
+གཉོར nn ow
+སུའང s u ng
+ཙིའི ts iw
+རྟའི t u
+རྒྱར c ow
+ངུའི ng uw
+ཨུའམ u i m
+དབྱོད tx o ab
+གྲའི dsh i
+མགྱོ c o
+འཚོའི tsh o i
