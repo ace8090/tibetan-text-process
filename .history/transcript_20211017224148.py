@@ -26,12 +26,12 @@ def get_parser():
     )
 
     return parser
-# f = open("gp.txt",encoding='utf-8').read()
+f = open("gp.txt",encoding='utf-8').read()
 
 def pre_process(source, target):
     #The characters to be deleted are added to the punctuation
     punctuation = r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~“”？，！．〈〉〔〕–【】（）、。：；’‘……￥《》——·追思ⅡⅧ①⑥⑦②何须事无细皆躬亲碍爱°Ⅰ㎝～༠﻿③"""
-    with open(source, 'r', encoding='utf-8') as f_source,open(target, 'w', encoding='utf-8') as f_target:
+    with open(source, 'r') as f_source,open(target, 'w', encoding='utf-8') as f_target:
         for line in f_source:
             items = line.strip().split()
             text = " ".join(items[1:])

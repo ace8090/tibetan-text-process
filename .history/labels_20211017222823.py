@@ -46,7 +46,7 @@ def get_parser():
 
 def process(lexicon, tran_file, phn_file, wrd_file = False, ltr_file = False):
     wrd_to_phn = {}
-    with open(lexicon, "r", encoding='utf-8') as lf:
+    with open(lexicon, "r") as lf:
         for line in lf:
             items = line.rstrip().split(" ")
             assert len(items) > 1, line
@@ -54,17 +54,17 @@ def process(lexicon, tran_file, phn_file, wrd_file = False, ltr_file = False):
             wrd_to_phn[items[0]] = items[1:]
 
     wrd_out = (
-    open(wrd_file, "w", encoding='utf-8')
+    open(wrd_file, "w")
     if wrd_file
     else None
     )
     ltr_out = (
-    open(ltr_file, "w", encoding='utf-8')
+    open(ltr_file, "w")
     if ltr_file
     else None
     )
 
-    with open(phn_file, "w", encoding='utf-8') as phn_out, open(tran_file, "r", encoding='utf-8') as trans_f:
+    with open(phn_file, "w") as phn_out, open(tran_file, "r") as trans_f:
         words_texts = {}
         phones_texts = {}
         for tline in trans_f:
