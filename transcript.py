@@ -26,7 +26,6 @@ def get_parser():
     )
 
     return parser
-# f = open("gp.txt",encoding='utf-8').read()
 
 def pre_process(source, target):
     #The characters to be deleted are added to the punctuation

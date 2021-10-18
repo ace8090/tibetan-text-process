@@ -67,8 +67,8 @@ def process(lexicon, tran_file, phn_file, wrd_file = False, ltr_file = False):
     with open(phn_file, "w", encoding='utf-8') as phn_out, open(tran_file, "r", encoding='utf-8') as trans_f:
         words_texts = {}
         phones_texts = {}
-        for tline in trans_f:
-            items = tline.strip().split()
+        for line in trans_f:
+            items = line.strip().split()
             words = []
             phones = []
             for w in items[1:]:
@@ -87,7 +87,6 @@ def process(lexicon, tran_file, phn_file, wrd_file = False, ltr_file = False):
             if ltr_out is not None:
                 print(key," ".join(list(value.replace(" ", "|"))) + " |",
                 file=ltr_out)
-
 
     if ltr_out is not None:
         ltr_out.close()

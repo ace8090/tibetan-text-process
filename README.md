@@ -8,6 +8,8 @@ Using this tool, you can clean Tibetan text, remove Chinese and English symbols 
 
 A sample corpus folder is given in this project. Please change the corresponding corpus folder path for formal use.
 
+Usage: the following scripts are run using Python3
+
 ```sh
 python tibetan_label.py --lexicon ./lexicon.txt --corpus ./corpus/
 
